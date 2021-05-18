@@ -1,0 +1,215 @@
+[2021-05-14T14:42:57+08:00][sql] CONNECT:[ UseTime:0.001199s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T14:42:57+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.004096s ]
+[2021-05-14T14:42:57+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000525s ]
+[2021-05-14T14:42:57+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1620974577 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.003263s ]
+[2021-05-14T15:20:28+08:00][error] [0]syntax error, unexpected '<'[C:\xampp\htdocs\ThinkPHPProject\tp\runtime\admin\temp\3c37f41b388001b27993d71d513e1a4a.php:49]
+[2021-05-14T15:53:21+08:00][error] [0]Object of class think\response\Json could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:22]
+[2021-05-14T15:53:35+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:24]
+[2021-05-14T15:55:52+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:25]
+[2021-05-14T15:56:37+08:00][error] [0]Object of class think\response\Json could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:23]
+[2021-05-14T15:56:39+08:00][error] [0]Object of class think\response\Json could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:23]
+[2021-05-14T15:57:53+08:00][error] [0]Object of class think\response\Json could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:23]
+[2021-05-14T15:57:54+08:00][error] [0]Object of class think\response\Json could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:23]
+[2021-05-14T15:57:54+08:00][error] [0]Object of class think\response\Json could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:23]
+[2021-05-14T15:58:21+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:25]
+[2021-05-14T16:00:56+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:25]
+[2021-05-14T16:14:19+08:00][sql] CONNECT:[ UseTime:0.000962s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:14:19+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.012143s ]
+[2021-05-14T16:14:19+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000617s ]
+[2021-05-14T16:14:19+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1620980059 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.002224s ]
+[2021-05-14T16:34:51+08:00][sql] CONNECT:[ UseTime:0.000797s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:34:51+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003884s ]
+[2021-05-14T16:34:58+08:00][sql] CONNECT:[ UseTime:0.015044s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:34:58+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003249s ]
+[2021-05-14T16:34:58+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:29]
+[2021-05-14T16:37:58+08:00][sql] CONNECT:[ UseTime:0.021376s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:37:58+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004162s ]
+[2021-05-14T16:37:58+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000474s ]
+[2021-05-14T16:37:58+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:29]
+[2021-05-14T16:38:24+08:00][sql] CONNECT:[ UseTime:0.020146s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:38:24+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003094s ]
+[2021-05-14T16:38:24+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000438s ]
+[2021-05-14T16:38:24+08:00][error] [8]Undefined property: think\model\Collection::$data[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:16]
+[2021-05-14T16:38:26+08:00][sql] CONNECT:[ UseTime:0.019842s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:38:26+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004398s ]
+[2021-05-14T16:38:26+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000487s ]
+[2021-05-14T16:38:26+08:00][error] [8]Undefined property: think\model\Collection::$data[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:16]
+[2021-05-14T16:38:27+08:00][sql] CONNECT:[ UseTime:0.018301s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:38:27+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003358s ]
+[2021-05-14T16:38:27+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000475s ]
+[2021-05-14T16:38:27+08:00][error] [8]Undefined property: think\model\Collection::$data[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:16]
+[2021-05-14T16:38:39+08:00][sql] CONNECT:[ UseTime:0.000567s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:38:39+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003601s ]
+[2021-05-14T16:38:39+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000415s ]
+[2021-05-14T16:38:39+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:29]
+[2021-05-14T16:39:45+08:00][sql] CONNECT:[ UseTime:0.021239s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:39:45+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003693s ]
+[2021-05-14T16:39:45+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000418s ]
+[2021-05-14T16:39:45+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:31]
+[2021-05-14T16:39:47+08:00][sql] CONNECT:[ UseTime:0.019621s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:39:47+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004065s ]
+[2021-05-14T16:39:47+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000422s ]
+[2021-05-14T16:39:47+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:31]
+[2021-05-14T16:39:57+08:00][sql] CONNECT:[ UseTime:0.000765s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:39:57+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004136s ]
+[2021-05-14T16:39:57+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000420s ]
+[2021-05-14T16:39:57+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:31]
+[2021-05-14T16:43:20+08:00][sql] CONNECT:[ UseTime:0.034638s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:43:20+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005030s ]
+[2021-05-14T16:43:20+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000510s ]
+[2021-05-14T16:43:42+08:00][sql] CONNECT:[ UseTime:0.018404s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:43:42+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011738s ]
+[2021-05-14T16:43:42+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000468s ]
+[2021-05-14T16:43:43+08:00][sql] CONNECT:[ UseTime:0.000693s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:43:43+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003642s ]
+[2021-05-14T16:43:43+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000433s ]
+[2021-05-14T16:44:02+08:00][sql] CONNECT:[ UseTime:0.000613s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:44:02+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.010707s ]
+[2021-05-14T16:44:02+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000385s ]
+[2021-05-14T16:44:03+08:00][sql] CONNECT:[ UseTime:0.000663s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:44:03+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004735s ]
+[2021-05-14T16:44:03+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000385s ]
+[2021-05-14T16:44:11+08:00][sql] CONNECT:[ UseTime:0.000591s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:44:11+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003311s ]
+[2021-05-14T16:44:11+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000393s ]
+[2021-05-14T16:46:04+08:00][sql] CONNECT:[ UseTime:0.000622s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:46:04+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005784s ]
+[2021-05-14T16:46:04+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000406s ]
+[2021-05-14T16:46:21+08:00][sql] CONNECT:[ UseTime:0.012264s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:46:21+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006370s ]
+[2021-05-14T16:46:21+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000435s ]
+[2021-05-14T16:46:22+08:00][sql] CONNECT:[ UseTime:0.000622s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:46:22+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003698s ]
+[2021-05-14T16:46:22+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000352s ]
+[2021-05-14T16:47:07+08:00][error] [0]syntax error, unexpected ']'[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:24]
+[2021-05-14T16:47:26+08:00][sql] CONNECT:[ UseTime:0.000613s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:47:26+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003620s ]
+[2021-05-14T16:47:26+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000468s ]
+[2021-05-14T16:47:31+08:00][sql] CONNECT:[ UseTime:0.000867s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:47:31+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003682s ]
+[2021-05-14T16:47:31+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000480s ]
+[2021-05-14T16:47:31+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:47:51+08:00][sql] CONNECT:[ UseTime:0.000638s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:47:51+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003322s ]
+[2021-05-14T16:47:51+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000431s ]
+[2021-05-14T16:47:51+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:48:15+08:00][sql] CONNECT:[ UseTime:0.000517s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:48:15+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.010619s ]
+[2021-05-14T16:48:15+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000289s ]
+[2021-05-14T16:48:15+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:48:17+08:00][sql] CONNECT:[ UseTime:0.000620s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:48:17+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003815s ]
+[2021-05-14T16:48:17+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000430s ]
+[2021-05-14T16:48:17+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:48:19+08:00][sql] CONNECT:[ UseTime:0.014635s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:48:19+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003916s ]
+[2021-05-14T16:48:19+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000493s ]
+[2021-05-14T16:48:19+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:48:37+08:00][sql] CONNECT:[ UseTime:0.000669s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:48:37+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003557s ]
+[2021-05-14T16:48:37+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000590s ]
+[2021-05-14T16:48:37+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:48:47+08:00][sql] CONNECT:[ UseTime:0.014714s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:48:47+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003390s ]
+[2021-05-14T16:48:47+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000403s ]
+[2021-05-14T16:48:47+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:49:09+08:00][sql] CONNECT:[ UseTime:0.010363s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:49:09+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.002875s ]
+[2021-05-14T16:49:09+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000327s ]
+[2021-05-14T16:49:09+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:49:23+08:00][sql] CONNECT:[ UseTime:0.025453s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:49:23+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.009155s ]
+[2021-05-14T16:49:23+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000392s ]
+[2021-05-14T16:49:23+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:49:29+08:00][sql] CONNECT:[ UseTime:0.010739s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:49:29+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.010776s ]
+[2021-05-14T16:49:29+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000467s ]
+[2021-05-14T16:49:29+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, string returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:25]
+[2021-05-14T16:49:30+08:00][sql] CONNECT:[ UseTime:0.000793s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:49:30+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012747s ]
+[2021-05-14T16:49:30+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000432s ]
+[2021-05-14T16:49:30+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, string returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:25]
+[2021-05-14T16:49:31+08:00][sql] CONNECT:[ UseTime:0.000577s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:49:31+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006186s ]
+[2021-05-14T16:49:31+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000559s ]
+[2021-05-14T16:49:31+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, string returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:25]
+[2021-05-14T16:51:01+08:00][sql] CONNECT:[ UseTime:0.030469s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:51:01+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004111s ]
+[2021-05-14T16:51:01+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000461s ]
+[2021-05-14T16:51:01+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:51:13+08:00][sql] CONNECT:[ UseTime:0.000856s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:51:13+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004487s ]
+[2021-05-14T16:51:13+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000582s ]
+[2021-05-14T16:51:13+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:51:30+08:00][sql] CONNECT:[ UseTime:0.023729s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:51:30+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003245s ]
+[2021-05-14T16:51:30+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000402s ]
+[2021-05-14T16:51:30+08:00][error] [0]Call to undefined function app\admin\controller\typeof()[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:17]
+[2021-05-14T16:51:55+08:00][sql] CONNECT:[ UseTime:0.016834s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:51:55+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004089s ]
+[2021-05-14T16:51:55+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000525s ]
+[2021-05-14T16:51:55+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:52:03+08:00][sql] CONNECT:[ UseTime:0.000831s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:52:03+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003948s ]
+[2021-05-14T16:52:03+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000500s ]
+[2021-05-14T16:52:03+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:52:25+08:00][sql] CONNECT:[ UseTime:0.000480s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:52:25+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.015923s ]
+[2021-05-14T16:52:25+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000483s ]
+[2021-05-14T16:52:26+08:00][sql] CONNECT:[ UseTime:0.000604s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:52:26+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004053s ]
+[2021-05-14T16:52:26+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000447s ]
+[2021-05-14T16:52:26+08:00][sql] CONNECT:[ UseTime:0.000680s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:52:26+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003536s ]
+[2021-05-14T16:52:26+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000310s ]
+[2021-05-14T16:53:09+08:00][sql] CONNECT:[ UseTime:0.025470s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:53:09+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003451s ]
+[2021-05-14T16:53:09+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000562s ]
+[2021-05-14T16:53:14+08:00][sql] CONNECT:[ UseTime:0.012978s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:53:14+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004228s ]
+[2021-05-14T16:53:14+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000491s ]
+[2021-05-14T16:53:14+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:26]
+[2021-05-14T16:54:55+08:00][sql] CONNECT:[ UseTime:0.015283s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:54:55+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003358s ]
+[2021-05-14T16:54:55+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000389s ]
+[2021-05-14T16:54:55+08:00][error] [0]Return value of app\admin\controller\GetTable::getUserTable() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:25]
+[2021-05-14T16:55:20+08:00][sql] CONNECT:[ UseTime:0.000662s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:55:20+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004425s ]
+[2021-05-14T16:55:20+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000605s ]
+[2021-05-14T16:55:20+08:00][error] [8]Undefined variable: json[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\GetTable.php:22]
+[2021-05-14T16:59:35+08:00][sql] CONNECT:[ UseTime:0.023226s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:59:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003738s ]
+[2021-05-14T16:59:35+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000436s ]
+[2021-05-14T16:59:38+08:00][sql] CONNECT:[ UseTime:0.023730s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T16:59:38+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004665s ]
+[2021-05-14T16:59:38+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000339s ]
+[2021-05-14T17:00:22+08:00][sql] CONNECT:[ UseTime:0.000654s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T17:00:22+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.010450s ]
+[2021-05-14T17:00:22+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000326s ]
+[2021-05-14T17:01:43+08:00][sql] CONNECT:[ UseTime:0.013916s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T17:01:43+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004485s ]
+[2021-05-14T17:01:43+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000494s ]
+[2021-05-14T17:01:47+08:00][sql] CONNECT:[ UseTime:0.020132s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T17:01:47+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012477s ]
+[2021-05-14T17:01:47+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000508s ]
+[2021-05-14T17:01:48+08:00][sql] CONNECT:[ UseTime:0.000742s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T17:01:48+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003725s ]
+[2021-05-14T17:01:48+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000443s ]
+[2021-05-14T17:02:00+08:00][sql] CONNECT:[ UseTime:0.023349s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T17:02:00+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004000s ]
+[2021-05-14T17:02:00+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000415s ]
+[2021-05-14T17:02:04+08:00][sql] CONNECT:[ UseTime:0.000616s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T17:02:04+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004307s ]
+[2021-05-14T17:02:04+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000482s ]
+[2021-05-14T17:04:30+08:00][sql] CONNECT:[ UseTime:0.000719s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T17:04:30+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004575s ]
+[2021-05-14T17:04:30+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000365s ]
+[2021-05-14T17:05:25+08:00][sql] CONNECT:[ UseTime:0.000633s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T17:05:25+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003693s ]
+[2021-05-14T17:05:25+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000337s ]
+[2021-05-14T17:05:26+08:00][sql] CONNECT:[ UseTime:0.000685s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T17:05:26+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.007157s ]
+[2021-05-14T17:05:26+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000310s ]
+[2021-05-14T17:05:38+08:00][sql] CONNECT:[ UseTime:0.000581s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-14T17:05:38+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012773s ]
+[2021-05-14T17:05:38+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000341s ]

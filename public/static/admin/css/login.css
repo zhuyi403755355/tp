@@ -1,0 +1,68 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 100% 200%;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+}
+
+.layui-form {
+    background-color: rgba(255, 255, 255, 0.7);
+    position: absolute;
+}
+
+input:-webkit-autofill {
+    -webkit-box-shadow: inset 0 0 0 1000px #fff;
+    background-color: transparent;
+}
+
+.layui-form-item {
+    margin: 20px 20px 20px -60px;
+}
+
+.layui-icon-username {
+    color: #126e82 !important;
+}
+
+.layui-icon-password {
+    color: #126e82 !important;
+}
+
+.login-background {
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    margin-left: -175px;
+    margin-top: 200px;
+}
+
+.login-header {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #126e82;
+    font-weight: bold;
+    font-size: 20px
+}
+
+.login-icon {
+    font-size: 40px;
+}
+
+.login-button {
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 18px;
+    width: 280px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.login-captcha {
+    position: absolute;
+    margin-left: 180px;
+    margin-top: -38px;
+}

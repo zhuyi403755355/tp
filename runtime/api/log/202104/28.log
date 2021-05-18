@@ -1,0 +1,155 @@
+[2021-04-28T09:18:39+08:00][sql] CONNECT:[ UseTime:0.017091s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T09:18:39+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.008675s ]
+[2021-04-28T09:18:39+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.003310s ]
+[2021-04-28T09:20:43+08:00][error] [0]模板文件不存在:C:\xampp\htdocs\ThinkPHPProject\tp\app\api\view\profile\index.html[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-view\src\Think.php:146]
+[2021-04-28T10:00:03+08:00][sql] CONNECT:[ UseTime:0.001026s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:00:03+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013579s ]
+[2021-04-28T10:00:03+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000655s ]
+[2021-04-28T10:43:35+08:00][sql] CONNECT:[ UseTime:0.000887s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:43:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006585s ]
+[2021-04-28T10:43:35+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000577s ]
+[2021-04-28T10:43:35+08:00][error] [0]Return value of app\api\controller\Register::checkRegister() must be an instance of think\response\Json, none returned[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Register.php:44]
+[2021-04-28T10:44:32+08:00][sql] CONNECT:[ UseTime:0.022849s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:44:32+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006382s ]
+[2021-04-28T10:44:32+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000711s ]
+[2021-04-28T10:47:38+08:00][sql] CONNECT:[ UseTime:0.000610s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:47:38+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005369s ]
+[2021-04-28T10:47:38+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000653s ]
+[2021-04-28T10:51:08+08:00][sql] CONNECT:[ UseTime:0.017746s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:51:08+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014073s ]
+[2021-04-28T10:51:08+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000514s ]
+[2021-04-28T10:52:34+08:00][sql] CONNECT:[ UseTime:0.000834s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:52:34+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014118s ]
+[2021-04-28T10:52:34+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000654s ]
+[2021-04-28T10:52:36+08:00][sql] CONNECT:[ UseTime:0.000696s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:52:36+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013658s ]
+[2021-04-28T10:52:36+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000403s ]
+[2021-04-28T10:53:11+08:00][sql] CONNECT:[ UseTime:0.016768s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:53:11+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012970s ]
+[2021-04-28T10:53:11+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000625s ]
+[2021-04-28T10:53:16+08:00][sql] CONNECT:[ UseTime:0.000944s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:53:16+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004980s ]
+[2021-04-28T10:53:16+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000457s ]
+[2021-04-28T10:53:24+08:00][sql] CONNECT:[ UseTime:0.000701s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:53:24+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006160s ]
+[2021-04-28T10:53:24+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000709s ]
+[2021-04-28T10:56:10+08:00][sql] CONNECT:[ UseTime:0.000697s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:56:10+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.020232s ]
+[2021-04-28T10:56:10+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000558s ]
+[2021-04-28T10:56:42+08:00][sql] CONNECT:[ UseTime:0.000721s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:56:42+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.009527s ]
+[2021-04-28T10:56:42+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000541s ]
+[2021-04-28T10:56:42+08:00][sql] CONNECT:[ UseTime:0.023850s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:56:42+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006785s ]
+[2021-04-28T10:56:42+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000608s ]
+[2021-04-28T10:56:47+08:00][sql] CONNECT:[ UseTime:0.000854s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:56:47+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013481s ]
+[2021-04-28T10:56:47+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi1' LIMIT 1 [ RunTime:0.000378s ]
+[2021-04-28T10:58:17+08:00][sql] CONNECT:[ UseTime:0.000671s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:58:17+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005777s ]
+[2021-04-28T10:58:17+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi1' LIMIT 1 [ RunTime:0.000621s ]
+[2021-04-28T10:58:25+08:00][sql] CONNECT:[ UseTime:0.000849s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:58:25+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014854s ]
+[2021-04-28T10:58:25+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi2' LIMIT 1 [ RunTime:0.000403s ]
+[2021-04-28T10:58:41+08:00][sql] CONNECT:[ UseTime:0.000765s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T10:58:41+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005341s ]
+[2021-04-28T10:58:41+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi2' LIMIT 1 [ RunTime:0.000427s ]
+[2021-04-28T10:58:41+08:00][sql] INSERT INTO `front_user` SET `username` = 'yi2' , `password` = '123' , `status` = 1 , `create_time` = 1619578721 , `update_time` = 1619578721 [ RunTime:0.000841s ]
+[2021-04-28T11:00:07+08:00][sql] CONNECT:[ UseTime:0.018697s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T11:00:07+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012710s ]
+[2021-04-28T11:00:07+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi2' LIMIT 1 [ RunTime:0.000553s ]
+[2021-04-28T11:02:22+08:00][sql] CONNECT:[ UseTime:0.012229s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T11:02:22+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013370s ]
+[2021-04-28T11:02:22+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi2' LIMIT 1 [ RunTime:0.000505s ]
+[2021-04-28T11:02:33+08:00][sql] CONNECT:[ UseTime:0.000922s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T11:02:33+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005535s ]
+[2021-04-28T11:02:33+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000554s ]
+[2021-04-28T11:02:35+08:00][sql] CONNECT:[ UseTime:0.000722s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T11:02:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013535s ]
+[2021-04-28T11:02:35+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi1' LIMIT 1 [ RunTime:0.000599s ]
+[2021-04-28T11:02:35+08:00][sql] INSERT INTO `front_user` SET `username` = 'yi1' , `password` = '202cb962ac59075b964b07152d234b70' , `status` = 1 , `create_time` = 1619578955 , `update_time` = 1619578955 [ RunTime:0.001170s ]
+[2021-04-28T11:03:08+08:00][sql] CONNECT:[ UseTime:0.024919s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T11:03:08+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014889s ]
+[2021-04-28T11:03:08+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi1' LIMIT 1 [ RunTime:0.000735s ]
+[2021-04-28T11:13:35+08:00][sql] CONNECT:[ UseTime:0.000897s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T11:13:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.022643s ]
+[2021-04-28T11:13:35+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi1' LIMIT 1 [ RunTime:0.000782s ]
+[2021-04-28T11:25:47+08:00][sql] CONNECT:[ UseTime:0.000869s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T11:25:47+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014574s ]
+[2021-04-28T11:25:47+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000597s ]
+[2021-04-28T11:25:58+08:00][sql] CONNECT:[ UseTime:0.014118s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T11:25:58+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012999s ]
+[2021-04-28T11:25:58+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000716s ]
+[2021-04-28T11:25:58+08:00][sql] INSERT INTO `front_user` SET `username` = 'yi' , `password` = '202cb962ac59075b964b07152d234b70' , `status` = 1 , `create_time` = 1619580358 , `update_time` = 1619580358 [ RunTime:0.000752s ]
+[2021-04-28T11:26:13+08:00][sql] CONNECT:[ UseTime:0.017317s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T11:26:13+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013679s ]
+[2021-04-28T11:26:13+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000749s ]
+[2021-04-28T13:54:34+08:00][sql] CONNECT:[ UseTime:0.001715s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T13:54:34+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.015102s ]
+[2021-04-28T13:54:34+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.002368s ]
+[2021-04-28T13:55:31+08:00][sql] CONNECT:[ UseTime:0.000592s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T13:55:31+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.007424s ]
+[2021-04-28T13:55:31+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000575s ]
+[2021-04-28T14:05:08+08:00][sql] CONNECT:[ UseTime:0.001079s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T14:05:08+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013981s ]
+[2021-04-28T14:05:08+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000675s ]
+[2021-04-28T14:23:00+08:00][sql] CONNECT:[ UseTime:0.020610s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T14:23:00+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014991s ]
+[2021-04-28T14:23:00+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000581s ]
+[2021-04-28T19:46:00+08:00][sql] CONNECT:[ UseTime:0.000820s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T19:46:00+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005542s ]
+[2021-04-28T19:46:00+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000632s ]
+[2021-04-28T20:26:57+08:00][sql] CONNECT:[ UseTime:0.034813s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:26:57+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.007776s ]
+[2021-04-28T20:26:57+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.004141s ]
+[2021-04-28T20:32:06+08:00][sql] CONNECT:[ UseTime:0.020365s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:32:06+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005744s ]
+[2021-04-28T20:32:06+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000469s ]
+[2021-04-28T20:32:17+08:00][sql] CONNECT:[ UseTime:0.000979s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:32:17+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.010061s ]
+[2021-04-28T20:32:17+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000480s ]
+[2021-04-28T20:33:09+08:00][sql] CONNECT:[ UseTime:0.024788s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:33:09+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012547s ]
+[2021-04-28T20:33:09+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000562s ]
+[2021-04-28T20:35:24+08:00][sql] CONNECT:[ UseTime:0.000956s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:35:24+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006887s ]
+[2021-04-28T20:35:24+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000467s ]
+[2021-04-28T20:46:18+08:00][sql] CONNECT:[ UseTime:0.014668s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:46:18+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004438s ]
+[2021-04-28T20:46:18+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000484s ]
+[2021-04-28T20:49:04+08:00][sql] CONNECT:[ UseTime:0.021677s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:49:04+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.022178s ]
+[2021-04-28T20:49:04+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.001261s ]
+[2021-04-28T20:51:58+08:00][sql] CONNECT:[ UseTime:0.015078s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:51:58+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014143s ]
+[2021-04-28T20:51:58+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000523s ]
+[2021-04-28T20:51:58+08:00][error] [2]Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP)[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\business\FrontUser.php:36]
+[2021-04-28T20:52:16+08:00][sql] CONNECT:[ UseTime:0.001067s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:52:16+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012246s ]
+[2021-04-28T20:52:16+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000624s ]
+[2021-04-28T20:52:16+08:00][error] [2]Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP)[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\business\FrontUser.php:36]
+[2021-04-28T20:52:22+08:00][sql] CONNECT:[ UseTime:0.018403s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:52:22+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006017s ]
+[2021-04-28T20:52:22+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000463s ]
+[2021-04-28T20:52:22+08:00][error] [2]Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP)[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\business\FrontUser.php:36]
+[2021-04-28T20:53:42+08:00][sql] CONNECT:[ UseTime:0.018286s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:53:42+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004590s ]
+[2021-04-28T20:53:42+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000543s ]
+[2021-04-28T20:56:51+08:00][sql] CONNECT:[ UseTime:0.020288s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:56:51+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.021279s ]
+[2021-04-28T20:56:51+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.001287s ]
+[2021-04-28T20:58:13+08:00][sql] CONNECT:[ UseTime:0.000656s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:58:13+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013652s ]
+[2021-04-28T20:58:13+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000544s ]
+[2021-04-28T20:59:02+08:00][sql] CONNECT:[ UseTime:0.025247s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T20:59:02+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006180s ]
+[2021-04-28T20:59:02+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000470s ]
+[2021-04-28T21:06:11+08:00][sql] CONNECT:[ UseTime:0.001365s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T21:06:11+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013206s ]
+[2021-04-28T21:06:11+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000393s ]
+[2021-04-28T21:11:06+08:00][sql] CONNECT:[ UseTime:0.017424s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T21:11:06+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012965s ]
+[2021-04-28T21:11:06+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000850s ]
+[2021-04-28T21:14:19+08:00][sql] CONNECT:[ UseTime:0.022809s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-28T21:14:19+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013009s ]
+[2021-04-28T21:14:19+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000429s ]

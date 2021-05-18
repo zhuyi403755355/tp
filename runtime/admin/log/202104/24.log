@@ -1,0 +1,7 @@
+[2021-04-24T09:52:19+08:00][error] [0]Driver [Think] not supported.[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\think\Manager.php:104]
+[2021-04-24T09:52:48+08:00][error] [0]Driver [Think] not supported.[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\think\Manager.php:104]
+[2021-04-24T12:50:01+08:00][error] [2]mt_rand(): max(80) is smaller than min(90)[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-captcha\src\Captcha.php:259]
+[2021-04-24T12:53:24+08:00][error] [2]mt_rand(): max(80) is smaller than min(90)[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-captcha\src\Captcha.php:259]
+[2021-04-24T12:53:26+08:00][error] [2]mt_rand(): max(80) is smaller than min(90)[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-captcha\src\Captcha.php:259]
+[2021-04-24T12:55:37+08:00][error] [2]mt_rand(): max(80) is smaller than min(90)[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-captcha\src\Captcha.php:259]
+[2021-04-24T12:55:53+08:00][error] [2]mt_rand(): max(80) is smaller than min(110)[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-captcha\src\Captcha.php:259]

@@ -1,0 +1,8 @@
+[2021-05-05T19:53:47+08:00][sql] CONNECT:[ UseTime:0.001416s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-05T19:53:47+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.010185s ]
+[2021-05-05T19:53:47+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.004810s ]
+[2021-05-05T19:53:47+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1620215627 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.003188s ]
+[2021-05-05T20:29:08+08:00][sql] CONNECT:[ UseTime:0.000898s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-05T20:29:08+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.011820s ]
+[2021-05-05T20:29:08+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000451s ]
+[2021-05-05T20:29:08+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1620217748 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001919s ]

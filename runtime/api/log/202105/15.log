@@ -1,0 +1,18 @@
+[2021-05-15T10:43:44+08:00][sql] CONNECT:[ UseTime:0.017668s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-15T10:43:44+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012151s ]
+[2021-05-15T10:43:44+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000504s ]
+[2021-05-15T10:43:44+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '403755355@qq.com' LIMIT 1 [ RunTime:0.000359s ]
+[2021-05-15T10:43:44+08:00][sql] INSERT INTO `front_user` SET `username` = 'yi' , `email` = '403755355@qq.com' , `password` = 'b85339b6fdca61fcca4db596ff43e87d' , `status` = 1 , `create_time` = 1621046624 , `update_time` = 1621046624 [ RunTime:0.000339s ]
+[2021-05-15T10:45:06+08:00][sql] CONNECT:[ UseTime:0.000810s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-15T10:45:06+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012394s ]
+[2021-05-15T10:45:06+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000526s ]
+[2021-05-15T10:45:06+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '403755355@qq.com' LIMIT 1 [ RunTime:0.000356s ]
+[2021-05-15T10:45:06+08:00][sql] INSERT INTO `front_user` SET `username` = 'yi' , `email` = '403755355@qq.com' , `password` = 'b85339b6fdca61fcca4db596ff43e87d' , `status` = 1 , `create_time` = 1621046706 , `update_time` = 1621046706 [ RunTime:0.000735s ]
+[2021-05-15T15:08:56+08:00][sql] CONNECT:[ UseTime:0.024670s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-15T15:08:56+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003261s ]
+[2021-05-15T15:08:56+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000888s ]
+[2021-05-15T15:08:56+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '403755355@qq.com' LIMIT 1 [ RunTime:0.000365s ]
+[2021-05-15T15:08:56+08:00][sql] INSERT INTO `front_user` SET `username` = 'yi' , `email` = '403755355@qq.com' , `password` = 'b85339b6fdca61fcca4db596ff43e87d' , `status` = 1 , `create_time` = 1621062536 , `update_time` = 1621062536 [ RunTime:0.001614s ]
+[2021-05-15T15:49:04+08:00][sql] CONNECT:[ UseTime:0.001172s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-15T15:49:04+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004548s ]
+[2021-05-15T15:49:04+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000824s ]

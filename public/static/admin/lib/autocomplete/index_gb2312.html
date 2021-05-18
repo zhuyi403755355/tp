@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="gb2312" />
+  <title>Layui - autocomplete</title>
+  <link rel="stylesheet" href="./assets/js/layui/css/layui.css" />
+  <link rel="stylesheet" href="./assets/css/autocomplete.css" />
+</head>
+<style>
+  .container {
+    width: 680px;
+    margin: 0 auto;
+  }
+
+  input {
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid #c1c1c1;
+    padding: 0 5px;
+    width: 300px;
+  }
+
+  .content {
+    margin-top: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    word-break: break-all;
+  }
+</style>
+<body>
+  <div class="container">
+    <h2>示例</h2>
+    <input type="text" name="example1" placeholder="请输入" />
+    <div class="content" id="content1"></div>
+    <button id="render">重新Render</button>
+  </div>
+</body>
+<script type="text/javascript" src="./assets/js/layui/layui.js"></script>
+
+<!-- 公共配置第三方组件 -->
+<script type="text/javascript">
+  layui.config({
+    version: false,
+    debug: false,
+    base: './assets/js/layui/extra/'
+  })
+</script>
+
+<script type="text/javascript">
+layui.use(['jquery', 'autocomplete'], function () {
+  var $ = layui.jquery, 
+      autocomplete = layui.autocomplete;
+
+  $('#render').on('click', function () {
+   	auto_render()
+  })
+
+  function auto_render() {
+  	var render = autocomplete.render({
+   	  elem: $('input[name=example1]'),
+      url: './json/test.json',
+   	  response: {code: 'code', data: 'data'},
+   	  template_val: '{{d.tdqc}}',
+   	  template_txt: '{{d.tdqc}} <span class=\'layui-badge layui-bg-gray\'>{{d.tdjc}}</span>',
+   	  onselect: function (resp) {
+   	  	$('#content1').html("NEW RENDER: " + JSON.stringify(resp));
+   	  }
+   	})
+  }
+
+  auto_render()
+});
+</script>
+</html>

@@ -1,0 +1,3 @@
+[2021-05-04T10:52:31+08:00][sql] CONNECT:[ UseTime:0.024803s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-04T10:52:31+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014435s ]
+[2021-05-04T10:52:31+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000619s ]

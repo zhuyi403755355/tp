@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Layui - autocomplete</title>
+  <link rel="stylesheet" href="./assets/js/layui/css/layui.css" />
+  <link rel="stylesheet" href="./assets/css/autocomplete.css" />
+</head>
+<style>
+  .container {
+    width: 680px;
+    margin: 0 auto;
+  }
+
+  input {
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid #c1c1c1;
+    padding: 0 5px;
+    width: 300px;
+  }
+
+  .content {
+    margin-top: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+</style>
+<body>
+  <div class="container">
+    <h2>示例</h2>
+    <div id="exampleDiv"></div>
+  </div>
+</body>
+
+<script type="text/javascript" src="./assets/js/layui/layui.js"></script>
+
+<!-- 公共配置第三方组件 -->
+<script type="text/javascript">
+  layui.config({
+    version: false,
+    debug: false,
+    base: './assets/js/layui/extra/'
+  })
+</script>
+
+<script type="text/javascript">
+layui.use(['autocomplete', 'jquery'], function () {
+  var $ = layui.jquery,
+  autocomplete = layui.autocomplete;
+
+  for (var i = 0; i < 10; i++) {
+    $div = document.createElement('div');
+    $div.setAttribute('style', 'margin-bottom: 10px;')
+    $input = document.createElement('input');
+    $input.id = ['example_input', i].join('_');
+    $div.append($input);
+    document.getElementById('exampleDiv').append($div);
+    renderAutoComplete('#' + $input.id);
+  }
+
+  function renderAutoComplete (elem) {
+    autocomplete.render({
+      elem: elem,
+      url: './json/data.json',
+      response: {code: 'code', data: 'data'},
+      template_val: '{{d.consignee}}',
+      template_txt: '{{d.consignee}} <span class=\'layui-badge layui-bg-gray\'>{{d.phone_number}}</span>',
+      onselect: function (data) {
+        alert(JSON.stringify(data));
+      }
+    })
+  }
+});
+</script>
+</html>

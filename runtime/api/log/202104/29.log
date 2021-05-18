@@ -1,0 +1,329 @@
+[2021-04-29T08:31:54+08:00][sql] CONNECT:[ UseTime:0.001564s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T08:31:54+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006745s ]
+[2021-04-29T08:31:54+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.004578s ]
+[2021-04-29T10:01:11+08:00][sql] CONNECT:[ UseTime:0.000877s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T10:01:11+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013438s ]
+[2021-04-29T10:01:11+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000522s ]
+[2021-04-29T10:45:41+08:00][error] [0]Object of class app\Request could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:8]
+[2021-04-29T10:49:24+08:00][error] [8]Array to string conversion[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:9]
+[2021-04-29T11:02:00+08:00][error] [2]Use of undefined constant ROOT_PATH - assumed 'ROOT_PATH' (this will throw an Error in a future version of PHP)[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:12]
+[2021-04-29T13:55:05+08:00][error] [0]syntax error, unexpected '$savename' (T_VARIABLE)[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:20]
+[2021-04-29T13:55:16+08:00][sql] CONNECT:[ UseTime:0.024495s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T13:55:16+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012975s ]
+[2021-04-29T13:56:44+08:00][sql] CONNECT:[ UseTime:0.000669s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T13:56:44+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.020234s ]
+[2021-04-29T13:59:16+08:00][sql] CONNECT:[ UseTime:0.016639s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T13:59:16+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.010158s ]
+[2021-04-29T13:59:28+08:00][sql] CONNECT:[ UseTime:0.010712s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T13:59:28+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012442s ]
+[2021-04-29T14:00:31+08:00][sql] CONNECT:[ UseTime:0.025000s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:00:31+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004626s ]
+[2021-04-29T14:01:09+08:00][sql] CONNECT:[ UseTime:0.000623s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:01:09+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006612s ]
+[2021-04-29T14:01:25+08:00][sql] CONNECT:[ UseTime:0.000684s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:01:25+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012640s ]
+[2021-04-29T14:01:35+08:00][sql] CONNECT:[ UseTime:0.012383s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:01:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005414s ]
+[2021-04-29T14:01:52+08:00][sql] CONNECT:[ UseTime:0.024384s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:01:52+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.015644s ]
+[2021-04-29T14:02:07+08:00][sql] CONNECT:[ UseTime:0.000614s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:02:07+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013948s ]
+[2021-04-29T14:05:07+08:00][sql] CONNECT:[ UseTime:0.024998s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:05:07+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.009504s ]
+[2021-04-29T14:05:35+08:00][sql] CONNECT:[ UseTime:0.024058s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:05:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004859s ]
+[2021-04-29T14:05:35+08:00][error] [8]Trying to access array offset on value of type int[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:22]
+[2021-04-29T14:06:47+08:00][sql] CONNECT:[ UseTime:0.016202s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:06:47+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004816s ]
+[2021-04-29T14:07:35+08:00][sql] CONNECT:[ UseTime:0.000786s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:07:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.008076s ]
+[2021-04-29T14:07:35+08:00][error] [2]preg_match(): Unknown modifier ':'[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:16]
+[2021-04-29T14:08:03+08:00][sql] CONNECT:[ UseTime:0.014854s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:08:03+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006060s ]
+[2021-04-29T14:08:03+08:00][error] [2]preg_match(): Unknown modifier ':'[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:16]
+[2021-04-29T14:09:04+08:00][sql] CONNECT:[ UseTime:0.000655s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:09:04+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004923s ]
+[2021-04-29T14:09:04+08:00][error] [2]preg_match(): Unknown modifier ':'[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:16]
+[2021-04-29T14:11:01+08:00][sql] CONNECT:[ UseTime:0.000668s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:11:01+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014188s ]
+[2021-04-29T14:12:28+08:00][sql] CONNECT:[ UseTime:0.020931s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:12:28+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013818s ]
+[2021-04-29T14:12:49+08:00][sql] CONNECT:[ UseTime:0.019208s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:12:49+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006691s ]
+[2021-04-29T14:12:49+08:00][error] [8]Undefined offset: 0[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:25]
+[2021-04-29T14:14:44+08:00][sql] CONNECT:[ UseTime:0.025411s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:14:44+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013179s ]
+[2021-04-29T14:14:56+08:00][sql] CONNECT:[ UseTime:0.011793s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:14:56+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013159s ]
+[2021-04-29T14:14:56+08:00][error] [8]Undefined offset: 0[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:25]
+[2021-04-29T14:21:52+08:00][sql] CONNECT:[ UseTime:0.018839s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:21:52+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004659s ]
+[2021-04-29T14:22:43+08:00][sql] CONNECT:[ UseTime:0.002686s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:22:43+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004954s ]
+[2021-04-29T14:22:53+08:00][sql] CONNECT:[ UseTime:0.000603s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:22:53+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004529s ]
+[2021-04-29T14:24:23+08:00][sql] CONNECT:[ UseTime:0.024849s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:24:23+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013059s ]
+[2021-04-29T14:27:26+08:00][sql] CONNECT:[ UseTime:0.022168s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:27:26+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004903s ]
+[2021-04-29T14:29:34+08:00][sql] CONNECT:[ UseTime:0.023096s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:29:34+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013689s ]
+[2021-04-29T14:56:28+08:00][sql] CONNECT:[ UseTime:0.023725s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:56:28+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005328s ]
+[2021-04-29T14:57:08+08:00][sql] CONNECT:[ UseTime:0.000849s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:57:08+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004985s ]
+[2021-04-29T14:57:08+08:00][error] [0]Too few arguments to function think\filesystem\Driver::putFileAs(), 2 passed in C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php on line 18 and at least 3 expected[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\think\filesystem\Driver.php:115]
+[2021-04-29T14:57:17+08:00][sql] CONNECT:[ UseTime:0.017166s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:57:17+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004508s ]
+[2021-04-29T14:58:53+08:00][sql] CONNECT:[ UseTime:0.015206s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T14:58:53+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004415s ]
+[2021-04-29T15:01:06+08:00][sql] CONNECT:[ UseTime:0.014429s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:01:06+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.015227s ]
+[2021-04-29T15:01:06+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\bf3e159b0f0365a43e5f0dc009a9b4d9.png'  WHERE  `id` = 1 [ RunTime:0.002130s ]
+[2021-04-29T15:03:50+08:00][sql] CONNECT:[ UseTime:0.020393s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:03:50+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.007436s ]
+[2021-04-29T15:03:50+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\b4157ee1e00eb620a349c159c88bfc51.png'  WHERE  `id` = 1 [ RunTime:0.001984s ]
+[2021-04-29T15:04:22+08:00][sql] CONNECT:[ UseTime:0.032377s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:04:22+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005067s ]
+[2021-04-29T15:04:22+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\4c5099695abe4e25ef9b7199855a730e.png'  WHERE  `id` = 1 [ RunTime:0.001905s ]
+[2021-04-29T15:06:05+08:00][sql] CONNECT:[ UseTime:0.000691s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:06:05+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004650s ]
+[2021-04-29T15:06:05+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\9e70d7359d989656e9acd77eda550d6a.png'  WHERE  `id` = 1 [ RunTime:0.001906s ]
+[2021-04-29T15:06:51+08:00][sql] CONNECT:[ UseTime:0.018687s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:06:51+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.007610s ]
+[2021-04-29T15:06:51+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\5062f3f69651695679cea6a5c43a17a4.png'  WHERE  `id` = 1 [ RunTime:0.005225s ]
+[2021-04-29T15:17:52+08:00][sql] CONNECT:[ UseTime:0.000751s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:17:52+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012077s ]
+[2021-04-29T15:17:52+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\3462f9865e5c5dbb7e7b16908784e9a3.jpg'  WHERE  `id` = 1 [ RunTime:0.002285s ]
+[2021-04-29T15:18:55+08:00][sql] CONNECT:[ UseTime:0.000663s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:18:55+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014538s ]
+[2021-04-29T15:18:55+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\83d0dff54d52f582d7d2bdde1a3ef65e.png'  WHERE  `id` = 1 [ RunTime:0.001825s ]
+[2021-04-29T15:20:03+08:00][sql] CONNECT:[ UseTime:0.013691s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:20:03+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005769s ]
+[2021-04-29T15:20:03+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\6ba4960db02053add17f120fc9a7042b.jpg'  WHERE  `id` = 1 [ RunTime:0.001795s ]
+[2021-04-29T15:21:27+08:00][sql] CONNECT:[ UseTime:0.000686s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:21:27+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005236s ]
+[2021-04-29T15:21:27+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg'  WHERE  `id` = 1 [ RunTime:0.002361s ]
+[2021-04-29T15:22:55+08:00][sql] CONNECT:[ UseTime:0.025934s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:22:55+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006396s ]
+[2021-04-29T15:22:55+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg'  WHERE  `id` = 1 [ RunTime:0.000672s ]
+[2021-04-29T15:23:49+08:00][sql] CONNECT:[ UseTime:0.017585s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:23:49+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004692s ]
+[2021-04-29T15:23:49+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg'  WHERE  `id` = 1 [ RunTime:0.000399s ]
+[2021-04-29T15:23:57+08:00][sql] CONNECT:[ UseTime:0.013121s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:23:57+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006313s ]
+[2021-04-29T15:23:57+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg'  WHERE  `id` = 1 [ RunTime:0.000344s ]
+[2021-04-29T15:26:18+08:00][sql] CONNECT:[ UseTime:0.022600s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:26:18+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005011s ]
+[2021-04-29T15:26:18+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg'  WHERE  `id` = 1 [ RunTime:0.000400s ]
+[2021-04-29T15:31:50+08:00][sql] CONNECT:[ UseTime:0.022976s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:31:50+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005659s ]
+[2021-04-29T15:31:50+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg'  WHERE  `id` = 1 [ RunTime:0.000444s ]
+[2021-04-29T15:33:40+08:00][sql] CONNECT:[ UseTime:0.000591s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:33:40+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005157s ]
+[2021-04-29T15:33:40+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg'  WHERE  `id` = 1 [ RunTime:0.000536s ]
+[2021-04-29T15:34:05+08:00][sql] CONNECT:[ UseTime:0.000582s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:34:05+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012148s ]
+[2021-04-29T15:34:05+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg'  WHERE  `id` = 1 [ RunTime:0.000448s ]
+[2021-04-29T15:34:38+08:00][sql] CONNECT:[ UseTime:0.000589s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:34:38+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005245s ]
+[2021-04-29T15:34:38+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\3f01ba9778a4c604550c5a5558230fd0.png'  WHERE  `id` = 1 [ RunTime:0.002056s ]
+[2021-04-29T15:35:38+08:00][sql] CONNECT:[ UseTime:0.000649s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:35:38+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004365s ]
+[2021-04-29T15:35:38+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\5cb1d6fab367ae8ed981bf2f6f187567.png'  WHERE  `id` = 1 [ RunTime:0.002142s ]
+[2021-04-29T15:36:40+08:00][sql] CONNECT:[ UseTime:0.011500s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:36:40+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.016506s ]
+[2021-04-29T15:36:40+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\5fa6375b69ee9c211812082e7eeeea97.png'  WHERE  `id` = 1 [ RunTime:0.001956s ]
+[2021-04-29T15:38:05+08:00][sql] CONNECT:[ UseTime:0.027431s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:38:05+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005241s ]
+[2021-04-29T15:38:05+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg'  WHERE  `id` = 1 [ RunTime:0.001961s ]
+[2021-04-29T15:38:14+08:00][sql] CONNECT:[ UseTime:0.010967s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:38:14+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013358s ]
+[2021-04-29T15:38:14+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg'  WHERE  `id` = 1 [ RunTime:0.000648s ]
+[2021-04-29T15:38:49+08:00][sql] CONNECT:[ UseTime:0.000626s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:38:49+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005006s ]
+[2021-04-29T15:38:49+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\7651b94512d294d0740768ed9e8a1a7a.png'  WHERE  `id` = 1 [ RunTime:0.002273s ]
+[2021-04-29T15:42:44+08:00][sql] CONNECT:[ UseTime:0.000605s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:42:44+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004449s ]
+[2021-04-29T15:42:44+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000600s ]
+[2021-04-29T15:47:35+08:00][sql] CONNECT:[ UseTime:0.000660s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:47:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.007720s ]
+[2021-04-29T15:47:35+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000452s ]
+[2021-04-29T15:51:03+08:00][sql] CONNECT:[ UseTime:0.020790s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:51:03+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006349s ]
+[2021-04-29T15:59:58+08:00][sql] CONNECT:[ UseTime:0.000851s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T15:59:58+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014075s ]
+[2021-04-29T15:59:58+08:00][error] [10500]fields not exists:[captcha][C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\Builder.php:164]
+[2021-04-29T16:03:26+08:00][sql] CONNECT:[ UseTime:0.036819s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:03:26+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012293s ]
+[2021-04-29T16:03:56+08:00][sql] CONNECT:[ UseTime:0.020709s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:03:56+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013036s ]
+[2021-04-29T16:03:56+08:00][error] [10500]fields not exists:[captcha][C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\Builder.php:164]
+[2021-04-29T16:04:54+08:00][sql] CONNECT:[ UseTime:0.015547s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:04:54+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013230s ]
+[2021-04-29T16:04:54+08:00][sql] UPDATE `front_user`  SET `username` = 'yi123' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\627ca0de8d5b1f13e9bf7b0dfeb118ab.png' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.002507s ]
+[2021-04-29T16:05:57+08:00][sql] CONNECT:[ UseTime:0.016075s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:05:57+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004603s ]
+[2021-04-29T16:05:57+08:00][sql] UPDATE `front_user`  SET `username` = 'yi123' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\627ca0de8d5b1f13e9bf7b0dfeb118ab.png' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.000324s ]
+[2021-04-29T16:06:35+08:00][sql] CONNECT:[ UseTime:0.019183s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:06:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005771s ]
+[2021-04-29T16:06:35+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi123' LIMIT 1 [ RunTime:0.000619s ]
+[2021-04-29T16:07:54+08:00][sql] CONNECT:[ UseTime:0.017033s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:07:54+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.020968s ]
+[2021-04-29T16:07:54+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\4ea8bec69e0a43c72737a3fdbd3cf067.png' , `sex` = 0  WHERE  `id` = 1 [ RunTime:0.001893s ]
+[2021-04-29T16:07:54+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000461s ]
+[2021-04-29T16:08:40+08:00][sql] CONNECT:[ UseTime:0.023624s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:08:40+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005153s ]
+[2021-04-29T16:08:40+08:00][sql] UPDATE `front_user`  SET `username` = '' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\c5f7342eb96eb28916c8185e458e4cdb.png' , `sex` = 0  WHERE  `id` = 1 [ RunTime:0.002007s ]
+[2021-04-29T16:08:55+08:00][sql] CONNECT:[ UseTime:0.014515s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:08:55+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004967s ]
+[2021-04-29T16:08:55+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000543s ]
+[2021-04-29T16:09:07+08:00][sql] CONNECT:[ UseTime:0.000717s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:09:07+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012696s ]
+[2021-04-29T16:09:07+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi123' LIMIT 1 [ RunTime:0.000505s ]
+[2021-04-29T16:11:02+08:00][sql] CONNECT:[ UseTime:0.000738s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:11:02+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014008s ]
+[2021-04-29T16:11:02+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000501s ]
+[2021-04-29T16:11:16+08:00][sql] CONNECT:[ UseTime:0.000619s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:11:16+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004322s ]
+[2021-04-29T16:11:16+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000562s ]
+[2021-04-29T16:11:28+08:00][sql] CONNECT:[ UseTime:0.021491s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:11:28+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012455s ]
+[2021-04-29T16:11:28+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000535s ]
+[2021-04-29T16:19:50+08:00][sql] CONNECT:[ UseTime:0.000902s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:19:50+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012981s ]
+[2021-04-29T16:19:50+08:00][sql] UPDATE `front_user`  SET `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001638s ]
+[2021-04-29T16:19:50+08:00][error] [8]Undefined index: username[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:60]
+[2021-04-29T16:21:59+08:00][sql] CONNECT:[ UseTime:0.020214s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:21:59+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014257s ]
+[2021-04-29T16:21:59+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000578s ]
+[2021-04-29T16:22:19+08:00][sql] CONNECT:[ UseTime:0.025429s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:22:19+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011945s ]
+[2021-04-29T16:22:19+08:00][sql] UPDATE `front_user`  SET `sex` = 2  WHERE  `id` = 1 [ RunTime:0.000334s ]
+[2021-04-29T16:30:34+08:00][sql] CONNECT:[ UseTime:0.000710s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:30:34+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.031356s ]
+[2021-04-29T16:30:34+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\95be88f6ef45ea001a05362d20bf96df.jpg' , `sex` = 0  WHERE  `id` = 1 [ RunTime:0.001915s ]
+[2021-04-29T16:33:46+08:00][sql] CONNECT:[ UseTime:0.032061s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:33:46+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.030458s ]
+[2021-04-29T16:33:46+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001733s ]
+[2021-04-29T16:34:58+08:00][sql] CONNECT:[ UseTime:0.000593s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:34:58+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005096s ]
+[2021-04-29T16:34:58+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000560s ]
+[2021-04-29T16:36:44+08:00][sql] CONNECT:[ UseTime:0.019995s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:36:44+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.007179s ]
+[2021-04-29T16:36:44+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '\\ThinkPHPProject\\tp\\public\\static\\api\\images/1avatar.jpg' , `sex` = 1  WHERE  `id` = 1 [ RunTime:0.001722s ]
+[2021-04-29T16:37:40+08:00][sql] CONNECT:[ UseTime:0.010560s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:37:40+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012816s ]
+[2021-04-29T16:37:40+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000462s ]
+[2021-04-29T16:42:43+08:00][sql] CONNECT:[ UseTime:0.012394s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:42:43+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012349s ]
+[2021-04-29T16:42:43+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000490s ]
+[2021-04-29T16:43:12+08:00][sql] CONNECT:[ UseTime:0.016978s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:43:12+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014266s ]
+[2021-04-29T16:43:12+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/staticapi/images/1avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.002179s ]
+[2021-04-29T16:44:24+08:00][sql] CONNECT:[ UseTime:0.014898s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:44:24+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013179s ]
+[2021-04-29T16:44:24+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000525s ]
+[2021-04-29T16:51:19+08:00][sql] CONNECT:[ UseTime:0.000801s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:51:19+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013697s ]
+[2021-04-29T16:51:19+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg' , `sex` = 1  WHERE  `id` = 1 [ RunTime:0.001769s ]
+[2021-04-29T16:51:19+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000478s ]
+[2021-04-29T16:52:23+08:00][sql] CONNECT:[ UseTime:0.022137s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:52:23+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013316s ]
+[2021-04-29T16:52:23+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg' , `sex` = 1  WHERE  `id` = 1 [ RunTime:0.000434s ]
+[2021-04-29T16:52:27+08:00][sql] CONNECT:[ UseTime:0.021080s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T16:52:27+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011101s ]
+[2021-04-29T16:52:27+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/1avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001782s ]
+[2021-04-29T16:52:27+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000512s ]
+[2021-04-29T17:03:41+08:00][sql] CONNECT:[ UseTime:0.000809s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:03:41+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006090s ]
+[2021-04-29T17:03:41+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001733s ]
+[2021-04-29T17:03:41+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000544s ]
+[2021-04-29T17:03:57+08:00][sql] CONNECT:[ UseTime:0.024339s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:03:57+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.017816s ]
+[2021-04-29T17:03:57+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/20210429\\64bec37fb1ea04e69a1f483bbdccea82.png' , `sex` = 1  WHERE  `id` = 1 [ RunTime:0.001725s ]
+[2021-04-29T17:03:57+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000523s ]
+[2021-04-29T17:20:47+08:00][sql] CONNECT:[ UseTime:0.000787s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:20:47+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014150s ]
+[2021-04-29T17:20:47+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id1/time1619688039avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001968s ]
+[2021-04-29T17:20:47+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000366s ]
+[2021-04-29T17:21:19+08:00][sql] CONNECT:[ UseTime:0.000638s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:21:19+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014119s ]
+[2021-04-29T17:21:19+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000525s ]
+[2021-04-29T17:23:09+08:00][sql] CONNECT:[ UseTime:0.023885s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:23:09+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012946s ]
+[2021-04-29T17:23:09+08:00][sql] UPDATE `front_user`  SET `username` = '' , `avatar` = '' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.017389s ]
+[2021-04-29T17:23:42+08:00][sql] CONNECT:[ UseTime:0.000765s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:23:42+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005681s ]
+[2021-04-29T17:23:42+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000519s ]
+[2021-04-29T17:27:18+08:00][sql] CONNECT:[ UseTime:0.000767s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:27:18+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012866s ]
+[2021-04-29T17:27:18+08:00][sql] UPDATE `front_user`  SET `username` = '' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id1/time1619688436avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001915s ]
+[2021-04-29T17:28:27+08:00][sql] CONNECT:[ UseTime:0.000740s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:28:27+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005049s ]
+[2021-04-29T17:28:27+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000518s ]
+[2021-04-29T17:29:11+08:00][sql] CONNECT:[ UseTime:0.021732s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:29:11+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014555s ]
+[2021-04-29T17:29:11+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000591s ]
+[2021-04-29T17:31:37+08:00][sql] CONNECT:[ UseTime:0.000751s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:31:37+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.019285s ]
+[2021-04-29T17:31:37+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000529s ]
+[2021-04-29T17:34:20+08:00][sql] CONNECT:[ UseTime:0.019086s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:34:20+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006401s ]
+[2021-04-29T17:34:20+08:00][sql] UPDATE `front_user`  SET `username` = '' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id1/time1619688856avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001683s ]
+[2021-04-29T17:39:19+08:00][sql] CONNECT:[ UseTime:0.020611s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:39:19+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012290s ]
+[2021-04-29T17:39:19+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000468s ]
+[2021-04-29T17:39:35+08:00][sql] CONNECT:[ UseTime:0.010576s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:39:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013946s ]
+[2021-04-29T17:39:35+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000476s ]
+[2021-04-29T17:39:57+08:00][sql] CONNECT:[ UseTime:0.000644s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:39:57+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.015161s ]
+[2021-04-29T17:39:57+08:00][sql] UPDATE `front_user`  SET `username` = '' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id1/time1619689189avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001877s ]
+[2021-04-29T17:42:29+08:00][sql] CONNECT:[ UseTime:0.022802s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:42:29+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.007596s ]
+[2021-04-29T17:42:29+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000536s ]
+[2021-04-29T17:42:53+08:00][sql] CONNECT:[ UseTime:0.021290s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:42:53+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012776s ]
+[2021-04-29T17:42:53+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000499s ]
+[2021-04-29T17:45:17+08:00][sql] CONNECT:[ UseTime:0.000658s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:45:17+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014415s ]
+[2021-04-29T17:45:17+08:00][sql] UPDATE `front_user`  SET `username` = '' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id1/time1619689514avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001809s ]
+[2021-04-29T17:46:53+08:00][sql] CONNECT:[ UseTime:0.000908s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:46:53+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013259s ]
+[2021-04-29T17:46:53+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000704s ]
+[2021-04-29T17:47:05+08:00][sql] CONNECT:[ UseTime:0.019283s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:47:05+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012461s ]
+[2021-04-29T17:47:05+08:00][sql] UPDATE `front_user`  SET `username` = '' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id1/time1619689514avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001722s ]
+[2021-04-29T17:48:30+08:00][sql] CONNECT:[ UseTime:0.000611s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:48:30+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.014239s ]
+[2021-04-29T17:48:30+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000523s ]
+[2021-04-29T17:48:43+08:00][sql] CONNECT:[ UseTime:0.025076s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:48:43+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012593s ]
+[2021-04-29T17:48:43+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id1/time1619689720avatar.jpg' , `sex` = 1  WHERE  `id` = 1 [ RunTime:0.001774s ]
+[2021-04-29T17:48:43+08:00][error] [8]Undefined index: username[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\ProfileForm.php:63]
+[2021-04-29T17:48:45+08:00][sql] CONNECT:[ UseTime:0.000599s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:48:45+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006151s ]
+[2021-04-29T17:48:45+08:00][sql] UPDATE `front_user`  SET `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id1/time1619689720avatar.jpg' , `sex` = 1  WHERE  `id` = 1 [ RunTime:0.000452s ]
+[2021-04-29T17:52:13+08:00][sql] CONNECT:[ UseTime:0.000608s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:52:13+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.023798s ]
+[2021-04-29T17:52:13+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id1/time1619689514avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.001602s ]
+[2021-04-29T17:52:13+08:00][sql] SELECT * FROM `front_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000422s ]
+[2021-04-29T17:52:33+08:00][sql] CONNECT:[ UseTime:0.017343s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:52:33+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012734s ]
+[2021-04-29T17:52:33+08:00][sql] UPDATE `front_user`  SET `username` = 'yi' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id1/time1619689514avatar.jpg' , `sex` = 2  WHERE  `id` = 1 [ RunTime:0.000498s ]
+[2021-04-29T17:53:22+08:00][sql] CONNECT:[ UseTime:0.000798s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:53:22+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013055s ]
+[2021-04-29T17:53:22+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000519s ]
+[2021-04-29T17:59:38+08:00][sql] CONNECT:[ UseTime:0.001090s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T17:59:38+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012592s ]
+[2021-04-29T17:59:38+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000568s ]
+[2021-04-29T18:07:26+08:00][sql] CONNECT:[ UseTime:0.000836s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T18:07:26+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012757s ]
+[2021-04-29T18:07:26+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000518s ]
+[2021-04-29T18:07:26+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi@16.com' LIMIT 1 [ RunTime:0.000455s ]
+[2021-04-29T18:07:30+08:00][sql] CONNECT:[ UseTime:0.019067s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-29T18:07:30+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012683s ]
+[2021-04-29T18:07:30+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi3' LIMIT 1 [ RunTime:0.000430s ]
+[2021-04-29T18:07:30+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi@16.com' LIMIT 1 [ RunTime:0.000362s ]
+[2021-04-29T18:07:30+08:00][sql] INSERT INTO `front_user` SET `username` = 'yi3' , `email` = 'yi@16.com' , `password` = 'b5bb1cc11eb4990e90ca2c34edacb3b3' , `status` = 1 , `create_time` = 1619690850 , `update_time` = 1619690850 [ RunTime:0.000430s ]

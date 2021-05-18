@@ -1,0 +1,133 @@
+[2021-04-25T12:40:45+08:00][sql] CONNECT:[ UseTime:0.001481s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T12:40:45+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.004388s ]
+[2021-04-25T12:40:45+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000534s ]
+[2021-04-25T12:45:01+08:00][sql] CONNECT:[ UseTime:0.020794s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T12:45:01+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.012734s ]
+[2021-04-25T12:45:01+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'asd' LIMIT 1 [ RunTime:0.001901s ]
+[2021-04-25T12:47:07+08:00][sql] CONNECT:[ UseTime:0.000600s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T12:47:07+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013549s ]
+[2021-04-25T12:47:07+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000384s ]
+[2021-04-25T12:47:37+08:00][sql] CONNECT:[ UseTime:0.013089s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T12:47:37+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013278s ]
+[2021-04-25T12:47:37+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000619s ]
+[2021-04-25T14:31:56+08:00][sql] CONNECT:[ UseTime:0.000853s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T14:31:56+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013110s ]
+[2021-04-25T14:31:56+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000472s ]
+[2021-04-25T14:35:28+08:00][sql] CONNECT:[ UseTime:0.023087s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T14:35:28+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.012346s ]
+[2021-04-25T14:35:28+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000474s ]
+[2021-04-25T14:35:28+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619332528 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.002079s ]
+[2021-04-25T14:53:49+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T14:53:59+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T14:54:18+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T14:54:23+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T14:56:53+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T14:56:54+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:02:05+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:02:06+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:02:15+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:02:17+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:02:24+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:02:24+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:04:45+08:00][sql] CONNECT:[ UseTime:0.000802s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T15:04:45+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013683s ]
+[2021-04-25T15:04:45+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000467s ]
+[2021-04-25T15:04:45+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619334285 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.002472s ]
+[2021-04-25T15:04:48+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:04:52+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:05:40+08:00][error] [0]Argument 1 passed to think\session\Store::set() must be of the type string, array given, called in C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\think\Manager.php on line 175[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\think\session\Store.php:150]
+[2021-04-25T15:05:41+08:00][error] [0]Argument 1 passed to think\session\Store::set() must be of the type string, array given, called in C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\think\Manager.php on line 175[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\think\session\Store.php:150]
+[2021-04-25T15:06:27+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:06:27+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:07:42+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:07:44+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:07:44+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:08:28+08:00][error] [0]Class 'app\admin\controller\HttpResponseException' not found[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\AdminBase.php:27]
+[2021-04-25T15:08:30+08:00][error] [0]Class 'app\admin\controller\HttpResponseException' not found[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\AdminBase.php:27]
+[2021-04-25T15:10:04+08:00][sql] CONNECT:[ UseTime:0.011199s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T15:10:04+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.005717s ]
+[2021-04-25T15:10:04+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000608s ]
+[2021-04-25T15:10:04+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619334604 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001937s ]
+[2021-04-25T15:21:27+08:00][sql] CONNECT:[ UseTime:0.000746s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T15:21:27+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.014049s ]
+[2021-04-25T15:21:27+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000495s ]
+[2021-04-25T15:21:27+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619335287 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001745s ]
+[2021-04-25T15:23:23+08:00][error] [0]strpos() expects parameter 1 to be string, array given[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\framework\src\helper.php:424]
+[2021-04-25T15:25:12+08:00][sql] CONNECT:[ UseTime:0.016571s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T15:25:12+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013393s ]
+[2021-04-25T15:25:12+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000473s ]
+[2021-04-25T15:25:12+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619335512 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.005044s ]
+[2021-04-25T15:26:59+08:00][sql] CONNECT:[ UseTime:0.000608s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T15:26:59+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.012750s ]
+[2021-04-25T15:26:59+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000444s ]
+[2021-04-25T15:26:59+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619335619 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001873s ]
+[2021-04-25T15:27:32+08:00][sql] CONNECT:[ UseTime:0.000879s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T15:27:32+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013958s ]
+[2021-04-25T15:27:32+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000518s ]
+[2021-04-25T15:27:32+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619335652 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.002036s ]
+[2021-04-25T15:28:00+08:00][sql] CONNECT:[ UseTime:0.018025s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T15:28:00+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.012410s ]
+[2021-04-25T15:28:00+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000450s ]
+[2021-04-25T15:28:00+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619335680 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001842s ]
+[2021-04-25T15:28:28+08:00][error] [0]Class 'app\admin\controller\HttpResponseException' not found[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\AdminBase.php:27]
+[2021-04-25T15:33:13+08:00][sql] CONNECT:[ UseTime:0.000827s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T15:33:13+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.012062s ]
+[2021-04-25T15:33:13+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000498s ]
+[2021-04-25T15:33:13+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619335993 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.002036s ]
+[2021-04-25T15:45:02+08:00][sql] CONNECT:[ UseTime:0.000854s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T15:45:02+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013625s ]
+[2021-04-25T15:45:02+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000549s ]
+[2021-04-25T15:45:02+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619336702 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001849s ]
+[2021-04-25T15:51:35+08:00][sql] CONNECT:[ UseTime:0.014580s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T15:51:35+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013634s ]
+[2021-04-25T15:51:35+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000594s ]
+[2021-04-25T15:51:35+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619337095 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001844s ]
+[2021-04-25T16:23:39+08:00][sql] CONNECT:[ UseTime:0.000876s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T16:23:39+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.005105s ]
+[2021-04-25T16:23:39+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000486s ]
+[2021-04-25T16:23:39+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619339019 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.006403s ]
+[2021-04-25T17:07:31+08:00][sql] CONNECT:[ UseTime:0.001538s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T17:07:31+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013576s ]
+[2021-04-25T17:07:31+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000530s ]
+[2021-04-25T17:07:31+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619341651 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.002305s ]
+[2021-04-25T17:49:40+08:00][sql] CONNECT:[ UseTime:0.001048s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T17:49:40+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.006611s ]
+[2021-04-25T17:49:40+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000553s ]
+[2021-04-25T17:49:40+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619344180 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001825s ]
+[2021-04-25T18:12:04+08:00][sql] CONNECT:[ UseTime:0.000888s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T18:12:04+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013051s ]
+[2021-04-25T18:12:04+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000343s ]
+[2021-04-25T18:12:04+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619345524 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001633s ]
+[2021-04-25T18:22:54+08:00][error] [0]Class 'app\admin\validate\Validate' not found[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\validate\AdminUser.php:4]
+[2021-04-25T18:22:55+08:00][error] [0]Class 'app\admin\validate\Validate' not found[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\validate\AdminUser.php:4]
+[2021-04-25T18:22:55+08:00][error] [0]Class 'app\admin\validate\Validate' not found[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\validate\AdminUser.php:4]
+[2021-04-25T18:22:55+08:00][error] [0]Class 'app\admin\validate\Validate' not found[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\validate\AdminUser.php:4]
+[2021-04-25T18:23:50+08:00][error] [0]Call to undefined method app\admin\validate\AdminUser::check()[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\Login.php:35]
+[2021-04-25T18:23:51+08:00][error] [0]Call to undefined method app\admin\validate\AdminUser::check()[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\Login.php:35]
+[2021-04-25T18:23:52+08:00][error] [0]Call to undefined method app\admin\validate\AdminUser::check()[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\Login.php:35]
+[2021-04-25T18:23:52+08:00][error] [0]Call to undefined method app\admin\validate\AdminUser::check()[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\Login.php:35]
+[2021-04-25T18:24:56+08:00][sql] CONNECT:[ UseTime:0.000968s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T18:24:56+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.005304s ]
+[2021-04-25T18:32:45+08:00][sql] CONNECT:[ UseTime:0.018229s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T18:32:45+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.007727s ]
+[2021-04-25T18:32:45+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000566s ]
+[2021-04-25T18:33:48+08:00][sql] CONNECT:[ UseTime:0.024013s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T18:33:48+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013434s ]
+[2021-04-25T18:33:48+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000572s ]
+[2021-04-25T18:33:53+08:00][sql] CONNECT:[ UseTime:0.023965s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T18:33:53+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.005731s ]
+[2021-04-25T18:33:53+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000456s ]
+[2021-04-25T18:33:58+08:00][sql] CONNECT:[ UseTime:0.019352s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T18:33:58+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.015842s ]
+[2021-04-25T18:33:58+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000618s ]
+[2021-04-25T18:34:24+08:00][sql] CONNECT:[ UseTime:0.014459s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T18:34:24+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.013586s ]
+[2021-04-25T18:34:24+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = '123' LIMIT 1 [ RunTime:0.000475s ]
+[2021-04-25T18:42:31+08:00][error] [0]Call to undefined method app\admin\business\AdminUser::getUserByUsername()[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\business\AdminUser.php:13]
+[2021-04-25T18:42:42+08:00][error] [0]Call to undefined method app\admin\business\AdminUser::getUserByUsername()[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\business\AdminUser.php:13]
+[2021-04-25T18:43:37+08:00][error] [0]Call to undefined method app\admin\business\AdminUser::getUserByUsername()[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\business\AdminUser.php:13]
+[2021-04-25T18:44:26+08:00][error] [0]Call to undefined method app\admin\business\AdminUser::getUserByUsername()[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\business\AdminUser.php:13]
+[2021-04-25T18:45:38+08:00][sql] CONNECT:[ UseTime:0.000737s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-25T18:45:38+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.008378s ]
+[2021-04-25T18:45:38+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000421s ]
+[2021-04-25T18:45:38+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1619347538 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001906s ]

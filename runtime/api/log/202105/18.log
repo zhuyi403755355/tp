@@ -1,0 +1,1777 @@
+[2021-05-18T08:59:28+08:00][sql] CONNECT:[ UseTime:0.003171s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T08:59:28+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.008228s ]
+[2021-05-18T08:59:28+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.003145s ]
+[2021-05-18T08:59:28+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000396s ]
+[2021-05-18T09:00:07+08:00][sql] CONNECT:[ UseTime:0.011971s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:00:07+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012743s ]
+[2021-05-18T09:00:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000438s ]
+[2021-05-18T09:00:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000292s ]
+[2021-05-18T09:00:25+08:00][sql] CONNECT:[ UseTime:0.000661s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:00:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003537s ]
+[2021-05-18T09:00:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000304s ]
+[2021-05-18T09:00:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000205s ]
+[2021-05-18T09:01:09+08:00][sql] CONNECT:[ UseTime:0.000780s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:01:09+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007870s ]
+[2021-05-18T09:01:09+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000479s ]
+[2021-05-18T09:01:09+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000358s ]
+[2021-05-18T09:01:36+08:00][sql] CONNECT:[ UseTime:0.000531s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:01:36+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011442s ]
+[2021-05-18T09:01:36+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000319s ]
+[2021-05-18T09:01:36+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000261s ]
+[2021-05-18T09:01:47+08:00][sql] CONNECT:[ UseTime:0.000630s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:01:47+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004611s ]
+[2021-05-18T09:01:47+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000415s ]
+[2021-05-18T09:01:47+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000296s ]
+[2021-05-18T09:02:01+08:00][sql] CONNECT:[ UseTime:0.000744s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:02:01+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012917s ]
+[2021-05-18T09:02:01+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000373s ]
+[2021-05-18T09:02:01+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000535s ]
+[2021-05-18T09:02:39+08:00][sql] CONNECT:[ UseTime:0.000794s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:02:39+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013114s ]
+[2021-05-18T09:02:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.001094s ]
+[2021-05-18T09:02:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000817s ]
+[2021-05-18T09:02:51+08:00][sql] CONNECT:[ UseTime:0.000723s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:02:51+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011851s ]
+[2021-05-18T09:02:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000383s ]
+[2021-05-18T09:02:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000448s ]
+[2021-05-18T09:03:32+08:00][sql] CONNECT:[ UseTime:0.000714s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:03:32+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003906s ]
+[2021-05-18T09:03:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000370s ]
+[2021-05-18T09:03:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000246s ]
+[2021-05-18T09:04:21+08:00][sql] CONNECT:[ UseTime:0.000802s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:04:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005979s ]
+[2021-05-18T09:04:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000365s ]
+[2021-05-18T09:04:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000227s ]
+[2021-05-18T09:05:04+08:00][sql] CONNECT:[ UseTime:0.000750s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:05:04+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.014162s ]
+[2021-05-18T09:05:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000286s ]
+[2021-05-18T09:05:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000171s ]
+[2021-05-18T09:05:10+08:00][sql] CONNECT:[ UseTime:0.000547s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:05:10+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005706s ]
+[2021-05-18T09:05:10+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000293s ]
+[2021-05-18T09:05:10+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000385s ]
+[2021-05-18T09:05:57+08:00][sql] CONNECT:[ UseTime:0.000539s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:05:57+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012291s ]
+[2021-05-18T09:05:57+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000419s ]
+[2021-05-18T09:05:57+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000456s ]
+[2021-05-18T09:06:27+08:00][sql] CONNECT:[ UseTime:0.000941s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:06:27+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012405s ]
+[2021-05-18T09:06:27+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000657s ]
+[2021-05-18T09:06:27+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000516s ]
+[2021-05-18T09:06:53+08:00][sql] CONNECT:[ UseTime:0.000657s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:06:53+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013237s ]
+[2021-05-18T09:06:53+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000601s ]
+[2021-05-18T09:06:53+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000466s ]
+[2021-05-18T09:07:16+08:00][sql] CONNECT:[ UseTime:0.000578s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:07:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013342s ]
+[2021-05-18T09:07:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000396s ]
+[2021-05-18T09:07:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000276s ]
+[2021-05-18T09:07:24+08:00][sql] CONNECT:[ UseTime:0.000607s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:07:24+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012438s ]
+[2021-05-18T09:07:24+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000353s ]
+[2021-05-18T09:07:24+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000600s ]
+[2021-05-18T09:10:13+08:00][sql] CONNECT:[ UseTime:0.000684s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:10:13+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012181s ]
+[2021-05-18T09:10:13+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000359s ]
+[2021-05-18T09:10:13+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000331s ]
+[2021-05-18T09:11:29+08:00][sql] CONNECT:[ UseTime:0.000823s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:11:29+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012963s ]
+[2021-05-18T09:11:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000483s ]
+[2021-05-18T09:11:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000304s ]
+[2021-05-18T09:12:48+08:00][sql] CONNECT:[ UseTime:0.000825s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:12:48+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.002918s ]
+[2021-05-18T09:12:48+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000281s ]
+[2021-05-18T09:12:48+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000170s ]
+[2021-05-18T09:19:22+08:00][sql] CONNECT:[ UseTime:0.000866s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:19:22+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012390s ]
+[2021-05-18T09:19:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000669s ]
+[2021-05-18T09:19:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000550s ]
+[2021-05-18T09:20:38+08:00][sql] CONNECT:[ UseTime:0.000640s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:20:38+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013021s ]
+[2021-05-18T09:20:38+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000581s ]
+[2021-05-18T09:20:38+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000575s ]
+[2021-05-18T09:20:53+08:00][sql] CONNECT:[ UseTime:0.000523s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:20:53+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010344s ]
+[2021-05-18T09:20:53+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000349s ]
+[2021-05-18T09:20:53+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000268s ]
+[2021-05-18T09:21:12+08:00][sql] CONNECT:[ UseTime:0.000831s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:21:12+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.014415s ]
+[2021-05-18T09:21:12+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000471s ]
+[2021-05-18T09:21:12+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000433s ]
+[2021-05-18T09:21:41+08:00][sql] CONNECT:[ UseTime:0.000713s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:21:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007692s ]
+[2021-05-18T09:21:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000352s ]
+[2021-05-18T09:21:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000337s ]
+[2021-05-18T09:22:18+08:00][sql] CONNECT:[ UseTime:0.000498s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:22:18+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011215s ]
+[2021-05-18T09:22:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000533s ]
+[2021-05-18T09:22:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000323s ]
+[2021-05-18T09:22:36+08:00][sql] CONNECT:[ UseTime:0.000647s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:22:36+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013250s ]
+[2021-05-18T09:22:36+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000314s ]
+[2021-05-18T09:22:36+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000217s ]
+[2021-05-18T09:23:12+08:00][sql] CONNECT:[ UseTime:0.000687s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:23:12+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012295s ]
+[2021-05-18T09:23:12+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000295s ]
+[2021-05-18T09:23:12+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000391s ]
+[2021-05-18T09:23:44+08:00][sql] CONNECT:[ UseTime:0.025370s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:23:44+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012970s ]
+[2021-05-18T09:23:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000297s ]
+[2021-05-18T09:23:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000203s ]
+[2021-05-18T09:23:59+08:00][sql] CONNECT:[ UseTime:0.000612s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:23:59+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012185s ]
+[2021-05-18T09:23:59+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000537s ]
+[2021-05-18T09:23:59+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000538s ]
+[2021-05-18T09:24:08+08:00][sql] CONNECT:[ UseTime:0.000607s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:24:08+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007184s ]
+[2021-05-18T09:24:08+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000458s ]
+[2021-05-18T09:24:08+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000380s ]
+[2021-05-18T09:25:04+08:00][sql] CONNECT:[ UseTime:0.000761s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:25:04+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011295s ]
+[2021-05-18T09:25:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000328s ]
+[2021-05-18T09:25:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000237s ]
+[2021-05-18T09:26:04+08:00][sql] CONNECT:[ UseTime:0.000729s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:26:04+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.008871s ]
+[2021-05-18T09:26:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000492s ]
+[2021-05-18T09:26:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000392s ]
+[2021-05-18T09:26:25+08:00][sql] CONNECT:[ UseTime:0.000714s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:26:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013564s ]
+[2021-05-18T09:26:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000727s ]
+[2021-05-18T09:26:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000566s ]
+[2021-05-18T09:26:30+08:00][sql] CONNECT:[ UseTime:0.000544s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:26:30+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004729s ]
+[2021-05-18T09:26:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000325s ]
+[2021-05-18T09:26:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000236s ]
+[2021-05-18T09:26:41+08:00][sql] CONNECT:[ UseTime:0.000622s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:26:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010566s ]
+[2021-05-18T09:26:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000330s ]
+[2021-05-18T09:26:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000218s ]
+[2021-05-18T09:26:45+08:00][sql] CONNECT:[ UseTime:0.000683s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:26:45+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012369s ]
+[2021-05-18T09:26:45+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000343s ]
+[2021-05-18T09:26:45+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000233s ]
+[2021-05-18T09:26:46+08:00][sql] CONNECT:[ UseTime:0.000508s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:26:46+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003344s ]
+[2021-05-18T09:26:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000435s ]
+[2021-05-18T09:26:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000321s ]
+[2021-05-18T09:27:10+08:00][sql] CONNECT:[ UseTime:0.016440s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:27:10+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012732s ]
+[2021-05-18T09:27:10+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000510s ]
+[2021-05-18T09:27:10+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000212s ]
+[2021-05-18T09:27:23+08:00][sql] CONNECT:[ UseTime:0.000561s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:27:23+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012797s ]
+[2021-05-18T09:27:23+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000337s ]
+[2021-05-18T09:27:23+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000236s ]
+[2021-05-18T09:27:24+08:00][sql] CONNECT:[ UseTime:0.000635s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:27:24+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012068s ]
+[2021-05-18T09:27:24+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000419s ]
+[2021-05-18T09:27:24+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000255s ]
+[2021-05-18T09:27:25+08:00][sql] CONNECT:[ UseTime:0.016679s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:27:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.016292s ]
+[2021-05-18T09:27:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000353s ]
+[2021-05-18T09:27:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000214s ]
+[2021-05-18T09:27:36+08:00][sql] CONNECT:[ UseTime:0.000610s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:27:36+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011801s ]
+[2021-05-18T09:27:36+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000315s ]
+[2021-05-18T09:27:36+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000258s ]
+[2021-05-18T09:27:51+08:00][sql] CONNECT:[ UseTime:0.000626s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:27:51+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011887s ]
+[2021-05-18T09:27:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000333s ]
+[2021-05-18T09:27:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000541s ]
+[2021-05-18T09:28:05+08:00][sql] CONNECT:[ UseTime:0.000512s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:28:05+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006720s ]
+[2021-05-18T09:28:05+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu' LIMIT 1 [ RunTime:0.001041s ]
+[2021-05-18T09:28:08+08:00][sql] CONNECT:[ UseTime:0.000907s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:28:08+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004556s ]
+[2021-05-18T09:28:08+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000528s ]
+[2021-05-18T09:28:08+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000453s ]
+[2021-05-18T09:29:59+08:00][sql] CONNECT:[ UseTime:0.000628s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:29:59+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004270s ]
+[2021-05-18T09:29:59+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000424s ]
+[2021-05-18T09:29:59+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000381s ]
+[2021-05-18T09:30:20+08:00][sql] CONNECT:[ UseTime:0.000600s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:30:20+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007336s ]
+[2021-05-18T09:30:20+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000394s ]
+[2021-05-18T09:30:20+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000575s ]
+[2021-05-18T09:31:07+08:00][sql] CONNECT:[ UseTime:0.002249s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:31:07+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003948s ]
+[2021-05-18T09:31:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000335s ]
+[2021-05-18T09:31:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000342s ]
+[2021-05-18T09:31:32+08:00][sql] CONNECT:[ UseTime:0.000743s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:31:32+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004414s ]
+[2021-05-18T09:31:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000362s ]
+[2021-05-18T09:31:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000271s ]
+[2021-05-18T09:31:43+08:00][sql] CONNECT:[ UseTime:0.000667s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:31:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006197s ]
+[2021-05-18T09:31:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000519s ]
+[2021-05-18T09:31:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000426s ]
+[2021-05-18T09:31:51+08:00][sql] CONNECT:[ UseTime:0.000554s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:31:51+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003619s ]
+[2021-05-18T09:31:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000490s ]
+[2021-05-18T09:31:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000356s ]
+[2021-05-18T09:32:03+08:00][sql] CONNECT:[ UseTime:0.014473s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:32:03+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004448s ]
+[2021-05-18T09:32:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000409s ]
+[2021-05-18T09:32:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000390s ]
+[2021-05-18T09:32:16+08:00][sql] CONNECT:[ UseTime:0.022722s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:32:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012841s ]
+[2021-05-18T09:32:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000696s ]
+[2021-05-18T09:32:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000523s ]
+[2021-05-18T09:32:29+08:00][sql] CONNECT:[ UseTime:0.000531s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:32:29+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.015228s ]
+[2021-05-18T09:32:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000467s ]
+[2021-05-18T09:32:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000363s ]
+[2021-05-18T09:32:34+08:00][sql] CONNECT:[ UseTime:0.000620s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:32:34+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005857s ]
+[2021-05-18T09:32:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000425s ]
+[2021-05-18T09:32:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000343s ]
+[2021-05-18T09:32:47+08:00][sql] CONNECT:[ UseTime:0.000517s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:32:47+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003494s ]
+[2021-05-18T09:32:47+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000339s ]
+[2021-05-18T09:32:47+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000234s ]
+[2021-05-18T09:32:50+08:00][sql] CONNECT:[ UseTime:0.000631s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:32:50+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007419s ]
+[2021-05-18T09:32:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000315s ]
+[2021-05-18T09:32:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000377s ]
+[2021-05-18T09:32:54+08:00][sql] CONNECT:[ UseTime:0.000625s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:32:54+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012305s ]
+[2021-05-18T09:32:54+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000369s ]
+[2021-05-18T09:32:54+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000307s ]
+[2021-05-18T09:33:00+08:00][sql] CONNECT:[ UseTime:0.000973s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:33:00+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010591s ]
+[2021-05-18T09:33:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000381s ]
+[2021-05-18T09:33:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000206s ]
+[2021-05-18T09:33:18+08:00][sql] CONNECT:[ UseTime:0.000614s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:33:18+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004888s ]
+[2021-05-18T09:33:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000325s ]
+[2021-05-18T09:33:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000250s ]
+[2021-05-18T09:33:40+08:00][sql] CONNECT:[ UseTime:0.018602s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:33:40+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003850s ]
+[2021-05-18T09:33:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000467s ]
+[2021-05-18T09:33:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000298s ]
+[2021-05-18T09:33:51+08:00][sql] CONNECT:[ UseTime:0.000593s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:33:51+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.002980s ]
+[2021-05-18T09:33:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000548s ]
+[2021-05-18T09:33:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000200s ]
+[2021-05-18T09:33:51+08:00][sql] CONNECT:[ UseTime:0.022693s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:33:51+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004071s ]
+[2021-05-18T09:33:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000452s ]
+[2021-05-18T09:33:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000480s ]
+[2021-05-18T09:33:52+08:00][sql] CONNECT:[ UseTime:0.015094s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:33:52+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011285s ]
+[2021-05-18T09:33:52+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000327s ]
+[2021-05-18T09:33:52+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000241s ]
+[2021-05-18T09:33:55+08:00][sql] CONNECT:[ UseTime:0.000584s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:33:55+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011444s ]
+[2021-05-18T09:33:55+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000404s ]
+[2021-05-18T09:33:55+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000404s ]
+[2021-05-18T09:33:56+08:00][sql] CONNECT:[ UseTime:0.024795s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:33:56+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012598s ]
+[2021-05-18T09:33:56+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000394s ]
+[2021-05-18T09:33:56+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000372s ]
+[2021-05-18T09:33:57+08:00][sql] CONNECT:[ UseTime:0.000749s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:33:57+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011452s ]
+[2021-05-18T09:33:57+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000489s ]
+[2021-05-18T09:33:57+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000782s ]
+[2021-05-18T09:33:58+08:00][sql] CONNECT:[ UseTime:0.000746s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:33:58+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.002970s ]
+[2021-05-18T09:33:58+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000435s ]
+[2021-05-18T09:33:58+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000203s ]
+[2021-05-18T09:34:16+08:00][sql] CONNECT:[ UseTime:0.000639s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:34:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011162s ]
+[2021-05-18T09:34:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000428s ]
+[2021-05-18T09:34:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000315s ]
+[2021-05-18T09:34:20+08:00][sql] CONNECT:[ UseTime:0.015870s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:34:20+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004353s ]
+[2021-05-18T09:34:20+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000377s ]
+[2021-05-18T09:34:20+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000314s ]
+[2021-05-18T09:34:23+08:00][sql] CONNECT:[ UseTime:0.000704s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:34:23+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005462s ]
+[2021-05-18T09:34:23+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000676s ]
+[2021-05-18T09:34:23+08:00][sql] CONNECT:[ UseTime:0.000794s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:34:23+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.007423s ]
+[2021-05-18T09:34:23+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000512s ]
+[2021-05-18T09:34:33+08:00][sql] CONNECT:[ UseTime:0.022850s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:34:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004074s ]
+[2021-05-18T09:34:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000390s ]
+[2021-05-18T09:34:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000239s ]
+[2021-05-18T09:34:34+08:00][sql] CONNECT:[ UseTime:0.015291s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:34:34+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003875s ]
+[2021-05-18T09:34:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000476s ]
+[2021-05-18T09:34:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000227s ]
+[2021-05-18T09:34:35+08:00][sql] CONNECT:[ UseTime:0.014948s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:34:35+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004676s ]
+[2021-05-18T09:34:35+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000542s ]
+[2021-05-18T09:34:35+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000465s ]
+[2021-05-18T09:35:14+08:00][sql] CONNECT:[ UseTime:0.000638s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:35:14+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010919s ]
+[2021-05-18T09:35:14+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000497s ]
+[2021-05-18T09:35:14+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000387s ]
+[2021-05-18T09:35:17+08:00][sql] CONNECT:[ UseTime:0.000771s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:35:17+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006334s ]
+[2021-05-18T09:35:17+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000289s ]
+[2021-05-18T09:35:17+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000302s ]
+[2021-05-18T09:35:20+08:00][sql] CONNECT:[ UseTime:0.000505s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:35:20+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012512s ]
+[2021-05-18T09:35:20+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000343s ]
+[2021-05-18T09:35:20+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000420s ]
+[2021-05-18T09:36:17+08:00][sql] CONNECT:[ UseTime:0.000796s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:36:17+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005435s ]
+[2021-05-18T09:36:17+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000461s ]
+[2021-05-18T09:36:17+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000288s ]
+[2021-05-18T09:36:30+08:00][sql] CONNECT:[ UseTime:0.019057s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:36:30+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011804s ]
+[2021-05-18T09:36:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000438s ]
+[2021-05-18T09:36:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000435s ]
+[2021-05-18T09:37:02+08:00][sql] CONNECT:[ UseTime:0.000576s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:37:02+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012081s ]
+[2021-05-18T09:37:02+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000494s ]
+[2021-05-18T09:37:02+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000502s ]
+[2021-05-18T09:37:40+08:00][sql] CONNECT:[ UseTime:0.023942s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:37:40+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005387s ]
+[2021-05-18T09:37:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000287s ]
+[2021-05-18T09:37:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000363s ]
+[2021-05-18T09:38:04+08:00][sql] CONNECT:[ UseTime:0.000726s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:38:04+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004238s ]
+[2021-05-18T09:38:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000618s ]
+[2021-05-18T09:38:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000461s ]
+[2021-05-18T09:38:13+08:00][sql] CONNECT:[ UseTime:0.000719s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:38:13+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011579s ]
+[2021-05-18T09:38:13+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000334s ]
+[2021-05-18T09:38:13+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000234s ]
+[2021-05-18T09:38:40+08:00][sql] CONNECT:[ UseTime:0.021909s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:38:40+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005304s ]
+[2021-05-18T09:38:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000411s ]
+[2021-05-18T09:38:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000255s ]
+[2021-05-18T09:39:18+08:00][sql] CONNECT:[ UseTime:0.000707s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:39:18+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004604s ]
+[2021-05-18T09:39:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000432s ]
+[2021-05-18T09:39:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000377s ]
+[2021-05-18T09:39:46+08:00][sql] CONNECT:[ UseTime:0.000664s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:39:46+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011940s ]
+[2021-05-18T09:39:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000550s ]
+[2021-05-18T09:39:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000475s ]
+[2021-05-18T09:40:07+08:00][sql] CONNECT:[ UseTime:0.000960s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:40:07+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013125s ]
+[2021-05-18T09:40:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000625s ]
+[2021-05-18T09:40:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000425s ]
+[2021-05-18T09:40:19+08:00][sql] CONNECT:[ UseTime:0.000724s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:40:19+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004235s ]
+[2021-05-18T09:40:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000408s ]
+[2021-05-18T09:40:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000366s ]
+[2021-05-18T09:40:30+08:00][sql] CONNECT:[ UseTime:0.011467s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:40:30+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004567s ]
+[2021-05-18T09:40:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000385s ]
+[2021-05-18T09:40:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000296s ]
+[2021-05-18T09:40:59+08:00][sql] CONNECT:[ UseTime:0.000501s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:40:59+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004508s ]
+[2021-05-18T09:40:59+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000402s ]
+[2021-05-18T09:40:59+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000292s ]
+[2021-05-18T09:41:06+08:00][sql] CONNECT:[ UseTime:0.000456s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:41:06+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005552s ]
+[2021-05-18T09:41:06+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000342s ]
+[2021-05-18T09:41:06+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000237s ]
+[2021-05-18T09:41:21+08:00][sql] CONNECT:[ UseTime:0.024599s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:41:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003602s ]
+[2021-05-18T09:41:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000549s ]
+[2021-05-18T09:41:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000217s ]
+[2021-05-18T09:41:25+08:00][sql] CONNECT:[ UseTime:0.000664s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:41:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003715s ]
+[2021-05-18T09:41:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000479s ]
+[2021-05-18T09:41:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000333s ]
+[2021-05-18T09:42:02+08:00][sql] CONNECT:[ UseTime:0.018762s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:42:02+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011350s ]
+[2021-05-18T09:42:02+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000476s ]
+[2021-05-18T09:42:02+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000300s ]
+[2021-05-18T09:42:05+08:00][sql] CONNECT:[ UseTime:0.000551s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:42:05+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004163s ]
+[2021-05-18T09:42:05+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000500s ]
+[2021-05-18T09:42:05+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000370s ]
+[2021-05-18T09:42:32+08:00][sql] CONNECT:[ UseTime:0.000634s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:42:32+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013211s ]
+[2021-05-18T09:42:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000733s ]
+[2021-05-18T09:42:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000579s ]
+[2021-05-18T09:42:33+08:00][sql] CONNECT:[ UseTime:0.000529s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:42:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004824s ]
+[2021-05-18T09:42:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000399s ]
+[2021-05-18T09:42:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000340s ]
+[2021-05-18T09:42:41+08:00][sql] CONNECT:[ UseTime:0.000643s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:42:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005107s ]
+[2021-05-18T09:42:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000891s ]
+[2021-05-18T09:42:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000651s ]
+[2021-05-18T09:43:16+08:00][sql] CONNECT:[ UseTime:0.000823s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:43:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011501s ]
+[2021-05-18T09:43:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000311s ]
+[2021-05-18T09:43:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000175s ]
+[2021-05-18T09:43:22+08:00][sql] CONNECT:[ UseTime:0.000616s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:43:22+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013144s ]
+[2021-05-18T09:43:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000480s ]
+[2021-05-18T09:43:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000283s ]
+[2021-05-18T09:43:30+08:00][sql] CONNECT:[ UseTime:0.000575s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:43:30+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006934s ]
+[2021-05-18T09:43:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000261s ]
+[2021-05-18T09:43:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000262s ]
+[2021-05-18T09:43:39+08:00][sql] CONNECT:[ UseTime:0.000624s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:43:39+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012430s ]
+[2021-05-18T09:43:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000629s ]
+[2021-05-18T09:43:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000403s ]
+[2021-05-18T09:43:46+08:00][sql] CONNECT:[ UseTime:0.000739s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:43:46+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003807s ]
+[2021-05-18T09:43:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000360s ]
+[2021-05-18T09:43:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000287s ]
+[2021-05-18T09:43:46+08:00][sql] CONNECT:[ UseTime:0.000902s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:43:46+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004081s ]
+[2021-05-18T09:43:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000801s ]
+[2021-05-18T09:43:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000522s ]
+[2021-05-18T09:47:52+08:00][sql] CONNECT:[ UseTime:0.024505s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:47:52+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010872s ]
+[2021-05-18T09:47:52+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000295s ]
+[2021-05-18T09:47:52+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000364s ]
+[2021-05-18T09:48:11+08:00][sql] CONNECT:[ UseTime:0.022392s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:48:11+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011151s ]
+[2021-05-18T09:48:11+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000318s ]
+[2021-05-18T09:48:11+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000171s ]
+[2021-05-18T09:48:19+08:00][sql] CONNECT:[ UseTime:0.000586s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:48:19+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005630s ]
+[2021-05-18T09:48:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000257s ]
+[2021-05-18T09:48:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000381s ]
+[2021-05-18T09:48:29+08:00][sql] CONNECT:[ UseTime:0.000530s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:48:29+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.009799s ]
+[2021-05-18T09:48:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000291s ]
+[2021-05-18T09:48:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000619s ]
+[2021-05-18T09:48:34+08:00][sql] CONNECT:[ UseTime:0.000723s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:48:34+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007114s ]
+[2021-05-18T09:48:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000745s ]
+[2021-05-18T09:48:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000488s ]
+[2021-05-18T09:48:43+08:00][sql] CONNECT:[ UseTime:0.000505s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:48:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005718s ]
+[2021-05-18T09:48:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000440s ]
+[2021-05-18T09:48:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000509s ]
+[2021-05-18T09:49:47+08:00][sql] CONNECT:[ UseTime:0.000689s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:49:47+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011795s ]
+[2021-05-18T09:49:47+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000720s ]
+[2021-05-18T09:49:47+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000392s ]
+[2021-05-18T09:50:00+08:00][sql] CONNECT:[ UseTime:0.011833s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:50:00+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011194s ]
+[2021-05-18T09:50:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000582s ]
+[2021-05-18T09:50:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000499s ]
+[2021-05-18T09:50:26+08:00][sql] CONNECT:[ UseTime:0.000766s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:50:26+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004599s ]
+[2021-05-18T09:50:26+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000462s ]
+[2021-05-18T09:50:26+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000680s ]
+[2021-05-18T09:50:37+08:00][sql] CONNECT:[ UseTime:0.000695s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:50:37+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005417s ]
+[2021-05-18T09:50:37+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000361s ]
+[2021-05-18T09:50:37+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000240s ]
+[2021-05-18T09:50:37+08:00][sql] CONNECT:[ UseTime:0.000457s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:50:37+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010571s ]
+[2021-05-18T09:50:37+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000336s ]
+[2021-05-18T09:50:37+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000406s ]
+[2021-05-18T09:50:54+08:00][sql] CONNECT:[ UseTime:0.001211s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:50:54+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.008468s ]
+[2021-05-18T09:50:54+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000537s ]
+[2021-05-18T09:50:54+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000268s ]
+[2021-05-18T09:51:00+08:00][sql] CONNECT:[ UseTime:0.000641s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:51:00+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004901s ]
+[2021-05-18T09:51:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000349s ]
+[2021-05-18T09:51:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000229s ]
+[2021-05-18T09:51:05+08:00][sql] CONNECT:[ UseTime:0.000682s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:51:05+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004052s ]
+[2021-05-18T09:51:05+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000410s ]
+[2021-05-18T09:51:05+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000255s ]
+[2021-05-18T09:52:00+08:00][sql] CONNECT:[ UseTime:0.000608s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:52:00+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012652s ]
+[2021-05-18T09:52:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000680s ]
+[2021-05-18T09:52:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000385s ]
+[2021-05-18T09:52:41+08:00][sql] CONNECT:[ UseTime:0.000713s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:52:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012384s ]
+[2021-05-18T09:52:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000887s ]
+[2021-05-18T09:52:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000782s ]
+[2021-05-18T09:52:50+08:00][sql] CONNECT:[ UseTime:0.000797s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:52:50+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003972s ]
+[2021-05-18T09:52:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000557s ]
+[2021-05-18T09:52:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000485s ]
+[2021-05-18T09:53:09+08:00][sql] CONNECT:[ UseTime:0.000546s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:53:09+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012109s ]
+[2021-05-18T09:53:09+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000461s ]
+[2021-05-18T09:53:09+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000176s ]
+[2021-05-18T09:53:14+08:00][sql] CONNECT:[ UseTime:0.000880s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:53:14+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010932s ]
+[2021-05-18T09:53:14+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000392s ]
+[2021-05-18T09:53:14+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000327s ]
+[2021-05-18T09:53:16+08:00][sql] CONNECT:[ UseTime:0.000522s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:53:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005198s ]
+[2021-05-18T09:53:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000345s ]
+[2021-05-18T09:53:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000363s ]
+[2021-05-18T09:53:22+08:00][sql] CONNECT:[ UseTime:0.011562s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:53:22+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006246s ]
+[2021-05-18T09:53:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000361s ]
+[2021-05-18T09:53:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000260s ]
+[2021-05-18T09:53:28+08:00][sql] CONNECT:[ UseTime:0.000489s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:53:28+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013420s ]
+[2021-05-18T09:53:28+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.001197s ]
+[2021-05-18T09:53:28+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.001417s ]
+[2021-05-18T09:53:32+08:00][sql] CONNECT:[ UseTime:0.000504s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:53:32+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011389s ]
+[2021-05-18T09:53:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000312s ]
+[2021-05-18T09:53:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000287s ]
+[2021-05-18T09:53:42+08:00][sql] CONNECT:[ UseTime:0.000583s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:53:42+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005896s ]
+[2021-05-18T09:53:42+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000429s ]
+[2021-05-18T09:53:42+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000449s ]
+[2021-05-18T09:53:53+08:00][sql] CONNECT:[ UseTime:0.024367s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:53:53+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012073s ]
+[2021-05-18T09:53:53+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000382s ]
+[2021-05-18T09:53:53+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000288s ]
+[2021-05-18T09:54:10+08:00][sql] CONNECT:[ UseTime:0.000870s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:54:10+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003672s ]
+[2021-05-18T09:54:10+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000331s ]
+[2021-05-18T09:54:10+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000387s ]
+[2021-05-18T09:54:21+08:00][sql] CONNECT:[ UseTime:0.000578s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:54:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005601s ]
+[2021-05-18T09:54:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000352s ]
+[2021-05-18T09:54:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000244s ]
+[2021-05-18T09:54:29+08:00][sql] CONNECT:[ UseTime:0.000704s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:54:29+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004278s ]
+[2021-05-18T09:54:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000607s ]
+[2021-05-18T09:54:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000279s ]
+[2021-05-18T09:54:43+08:00][sql] CONNECT:[ UseTime:0.000715s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:54:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004271s ]
+[2021-05-18T09:54:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000366s ]
+[2021-05-18T09:54:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000279s ]
+[2021-05-18T09:54:55+08:00][sql] CONNECT:[ UseTime:0.000826s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:54:55+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005972s ]
+[2021-05-18T09:54:55+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000393s ]
+[2021-05-18T09:54:55+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000263s ]
+[2021-05-18T09:55:22+08:00][sql] CONNECT:[ UseTime:0.000963s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:22+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004837s ]
+[2021-05-18T09:55:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000593s ]
+[2021-05-18T09:55:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000470s ]
+[2021-05-18T09:55:27+08:00][sql] CONNECT:[ UseTime:0.000529s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:27+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012785s ]
+[2021-05-18T09:55:27+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000270s ]
+[2021-05-18T09:55:27+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000166s ]
+[2021-05-18T09:55:33+08:00][sql] CONNECT:[ UseTime:0.000539s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005264s ]
+[2021-05-18T09:55:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000280s ]
+[2021-05-18T09:55:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000192s ]
+[2021-05-18T09:55:34+08:00][sql] CONNECT:[ UseTime:0.000481s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:34+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005106s ]
+[2021-05-18T09:55:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000364s ]
+[2021-05-18T09:55:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000300s ]
+[2021-05-18T09:55:36+08:00][sql] CONNECT:[ UseTime:0.000594s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:36+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003406s ]
+[2021-05-18T09:55:36+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000580s ]
+[2021-05-18T09:55:36+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000592s ]
+[2021-05-18T09:55:37+08:00][sql] CONNECT:[ UseTime:0.000465s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:37+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004229s ]
+[2021-05-18T09:55:37+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000369s ]
+[2021-05-18T09:55:37+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000704s ]
+[2021-05-18T09:55:43+08:00][sql] CONNECT:[ UseTime:0.000692s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004767s ]
+[2021-05-18T09:55:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000452s ]
+[2021-05-18T09:55:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000477s ]
+[2021-05-18T09:55:44+08:00][sql] CONNECT:[ UseTime:0.000778s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:44+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003481s ]
+[2021-05-18T09:55:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000486s ]
+[2021-05-18T09:55:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000367s ]
+[2021-05-18T09:55:45+08:00][sql] CONNECT:[ UseTime:0.000828s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:45+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003284s ]
+[2021-05-18T09:55:45+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000329s ]
+[2021-05-18T09:55:45+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000251s ]
+[2021-05-18T09:55:45+08:00][sql] CONNECT:[ UseTime:0.015668s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:45+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003283s ]
+[2021-05-18T09:55:45+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000323s ]
+[2021-05-18T09:55:45+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000176s ]
+[2021-05-18T09:55:46+08:00][sql] CONNECT:[ UseTime:0.000775s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:46+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004309s ]
+[2021-05-18T09:55:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000600s ]
+[2021-05-18T09:55:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000454s ]
+[2021-05-18T09:55:46+08:00][sql] CONNECT:[ UseTime:0.014245s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:46+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011202s ]
+[2021-05-18T09:55:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000362s ]
+[2021-05-18T09:55:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000242s ]
+[2021-05-18T09:55:48+08:00][sql] CONNECT:[ UseTime:0.000556s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:48+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003573s ]
+[2021-05-18T09:55:48+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000419s ]
+[2021-05-18T09:55:48+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000277s ]
+[2021-05-18T09:55:49+08:00][sql] CONNECT:[ UseTime:0.000705s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:49+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012120s ]
+[2021-05-18T09:55:49+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000331s ]
+[2021-05-18T09:55:49+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000225s ]
+[2021-05-18T09:55:55+08:00][sql] CONNECT:[ UseTime:0.023700s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:55:55+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005871s ]
+[2021-05-18T09:55:55+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000282s ]
+[2021-05-18T09:55:55+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000210s ]
+[2021-05-18T09:56:04+08:00][sql] CONNECT:[ UseTime:0.015083s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:56:04+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011841s ]
+[2021-05-18T09:56:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000676s ]
+[2021-05-18T09:56:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000350s ]
+[2021-05-18T09:56:05+08:00][sql] CONNECT:[ UseTime:0.000486s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:56:05+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003535s ]
+[2021-05-18T09:56:05+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000278s ]
+[2021-05-18T09:56:05+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000180s ]
+[2021-05-18T09:56:19+08:00][sql] CONNECT:[ UseTime:0.000773s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:56:19+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011284s ]
+[2021-05-18T09:56:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000262s ]
+[2021-05-18T09:56:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000237s ]
+[2021-05-18T09:56:31+08:00][sql] CONNECT:[ UseTime:0.000651s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:56:31+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003667s ]
+[2021-05-18T09:56:31+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000341s ]
+[2021-05-18T09:56:31+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000294s ]
+[2021-05-18T09:56:39+08:00][sql] CONNECT:[ UseTime:0.000546s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:56:39+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003461s ]
+[2021-05-18T09:56:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000300s ]
+[2021-05-18T09:56:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000249s ]
+[2021-05-18T09:56:40+08:00][sql] CONNECT:[ UseTime:0.013339s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:56:40+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003664s ]
+[2021-05-18T09:56:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000278s ]
+[2021-05-18T09:56:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000242s ]
+[2021-05-18T09:57:03+08:00][sql] CONNECT:[ UseTime:0.000578s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:57:03+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011629s ]
+[2021-05-18T09:57:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000389s ]
+[2021-05-18T09:57:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000489s ]
+[2021-05-18T09:57:15+08:00][sql] CONNECT:[ UseTime:0.013197s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:57:15+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013325s ]
+[2021-05-18T09:57:15+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000523s ]
+[2021-05-18T09:57:15+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000212s ]
+[2021-05-18T09:57:21+08:00][sql] CONNECT:[ UseTime:0.000715s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:57:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003559s ]
+[2021-05-18T09:57:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000312s ]
+[2021-05-18T09:57:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000468s ]
+[2021-05-18T09:57:25+08:00][sql] CONNECT:[ UseTime:0.000475s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:57:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.009876s ]
+[2021-05-18T09:57:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000263s ]
+[2021-05-18T09:57:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000487s ]
+[2021-05-18T09:57:31+08:00][sql] CONNECT:[ UseTime:0.000567s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:57:31+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006155s ]
+[2021-05-18T09:57:31+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000442s ]
+[2021-05-18T09:57:31+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000306s ]
+[2021-05-18T09:57:33+08:00][sql] CONNECT:[ UseTime:0.000737s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:57:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007627s ]
+[2021-05-18T09:57:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000878s ]
+[2021-05-18T09:57:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000518s ]
+[2021-05-18T09:57:34+08:00][sql] CONNECT:[ UseTime:0.000710s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:57:34+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003607s ]
+[2021-05-18T09:57:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000275s ]
+[2021-05-18T09:57:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000191s ]
+[2021-05-18T09:57:39+08:00][sql] CONNECT:[ UseTime:0.000605s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:57:39+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011717s ]
+[2021-05-18T09:57:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000330s ]
+[2021-05-18T09:57:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000256s ]
+[2021-05-18T09:58:03+08:00][sql] CONNECT:[ UseTime:0.000912s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T09:58:03+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004957s ]
+[2021-05-18T09:58:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000458s ]
+[2021-05-18T09:58:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000324s ]
+[2021-05-18T10:06:04+08:00][sql] CONNECT:[ UseTime:0.000752s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:06:04+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012461s ]
+[2021-05-18T10:06:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000405s ]
+[2021-05-18T10:06:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000282s ]
+[2021-05-18T10:07:02+08:00][sql] CONNECT:[ UseTime:0.000561s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:07:02+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010250s ]
+[2021-05-18T10:07:02+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000462s ]
+[2021-05-18T10:07:02+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000408s ]
+[2021-05-18T10:08:43+08:00][sql] CONNECT:[ UseTime:0.000487s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:08:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012590s ]
+[2021-05-18T10:08:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000414s ]
+[2021-05-18T10:08:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000257s ]
+[2021-05-18T10:09:40+08:00][sql] CONNECT:[ UseTime:0.022128s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:09:40+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013649s ]
+[2021-05-18T10:09:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000623s ]
+[2021-05-18T10:09:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000385s ]
+[2021-05-18T10:09:41+08:00][sql] CONNECT:[ UseTime:0.000644s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:09:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011509s ]
+[2021-05-18T10:09:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000398s ]
+[2021-05-18T10:09:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000493s ]
+[2021-05-18T10:09:41+08:00][sql] CONNECT:[ UseTime:0.000803s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:09:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.015830s ]
+[2021-05-18T10:09:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000435s ]
+[2021-05-18T10:09:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000367s ]
+[2021-05-18T10:09:44+08:00][sql] CONNECT:[ UseTime:0.000506s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:09:44+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003800s ]
+[2021-05-18T10:09:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000434s ]
+[2021-05-18T10:09:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000391s ]
+[2021-05-18T10:19:57+08:00][sql] CONNECT:[ UseTime:0.000780s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:19:57+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.019082s ]
+[2021-05-18T10:19:57+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000373s ]
+[2021-05-18T10:19:57+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000221s ]
+[2021-05-18T10:21:43+08:00][sql] CONNECT:[ UseTime:0.000469s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:21:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011230s ]
+[2021-05-18T10:21:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000276s ]
+[2021-05-18T10:21:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000343s ]
+[2021-05-18T10:23:17+08:00][error] [0]Object of class think\response\Json could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Index.php:28]
+[2021-05-18T10:23:27+08:00][error] [8]Array to string conversion[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Index.php:28]
+[2021-05-18T10:23:34+08:00][error] [0]Object of class think\response\Json could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Index.php:28]
+[2021-05-18T10:23:37+08:00][error] [0]Object of class think\response\Json could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Index.php:28]
+[2021-05-18T10:24:19+08:00][sql] CONNECT:[ UseTime:0.000921s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:24:19+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004860s ]
+[2021-05-18T10:24:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000477s ]
+[2021-05-18T10:24:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000282s ]
+[2021-05-18T10:24:21+08:00][sql] CONNECT:[ UseTime:0.000884s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:24:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011882s ]
+[2021-05-18T10:24:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000557s ]
+[2021-05-18T10:24:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000462s ]
+[2021-05-18T10:24:52+08:00][sql] CONNECT:[ UseTime:0.000844s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:24:52+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012163s ]
+[2021-05-18T10:24:52+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000398s ]
+[2021-05-18T10:24:52+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000267s ]
+[2021-05-18T10:25:58+08:00][sql] CONNECT:[ UseTime:0.000597s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:25:58+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.018333s ]
+[2021-05-18T10:25:58+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000396s ]
+[2021-05-18T10:25:58+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000320s ]
+[2021-05-18T10:26:15+08:00][sql] CONNECT:[ UseTime:0.000584s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:26:15+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012480s ]
+[2021-05-18T10:26:15+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000421s ]
+[2021-05-18T10:26:15+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000202s ]
+[2021-05-18T10:26:31+08:00][sql] CONNECT:[ UseTime:0.000587s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:26:31+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.015181s ]
+[2021-05-18T10:26:31+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000452s ]
+[2021-05-18T10:26:31+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000478s ]
+[2021-05-18T10:26:53+08:00][sql] CONNECT:[ UseTime:0.000472s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:26:53+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012877s ]
+[2021-05-18T10:26:53+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000501s ]
+[2021-05-18T10:26:53+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000530s ]
+[2021-05-18T10:26:57+08:00][sql] CONNECT:[ UseTime:0.000557s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:26:57+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012669s ]
+[2021-05-18T10:26:57+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000870s ]
+[2021-05-18T10:26:57+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000538s ]
+[2021-05-18T10:27:18+08:00][sql] CONNECT:[ UseTime:0.000728s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:27:18+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013564s ]
+[2021-05-18T10:27:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000461s ]
+[2021-05-18T10:27:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000294s ]
+[2021-05-18T10:27:27+08:00][sql] CONNECT:[ UseTime:0.000700s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:27:27+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012382s ]
+[2021-05-18T10:27:27+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000607s ]
+[2021-05-18T10:27:27+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000693s ]
+[2021-05-18T10:27:44+08:00][sql] CONNECT:[ UseTime:0.000903s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:27:44+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011280s ]
+[2021-05-18T10:27:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000470s ]
+[2021-05-18T10:27:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000527s ]
+[2021-05-18T10:29:35+08:00][sql] CONNECT:[ UseTime:0.000798s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:29:35+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006575s ]
+[2021-05-18T10:29:35+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000470s ]
+[2021-05-18T10:29:35+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000402s ]
+[2021-05-18T10:29:36+08:00][sql] CONNECT:[ UseTime:0.018506s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:29:36+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004099s ]
+[2021-05-18T10:29:36+08:00][sql] SELECT * FROM `product` [ RunTime:0.000492s ]
+[2021-05-18T10:29:40+08:00][sql] CONNECT:[ UseTime:0.000604s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:29:40+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.014360s ]
+[2021-05-18T10:29:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000499s ]
+[2021-05-18T10:29:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000370s ]
+[2021-05-18T10:29:42+08:00][sql] CONNECT:[ UseTime:0.000595s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:29:42+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010733s ]
+[2021-05-18T10:29:42+08:00][sql] SELECT * FROM `product` [ RunTime:0.000597s ]
+[2021-05-18T10:29:49+08:00][sql] CONNECT:[ UseTime:0.000586s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:29:49+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004555s ]
+[2021-05-18T10:29:49+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000723s ]
+[2021-05-18T10:29:49+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000322s ]
+[2021-05-18T10:29:50+08:00][sql] CONNECT:[ UseTime:0.000473s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:29:50+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004622s ]
+[2021-05-18T10:29:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000255s ]
+[2021-05-18T10:29:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000182s ]
+[2021-05-18T10:30:27+08:00][sql] CONNECT:[ UseTime:0.014968s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:30:27+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003309s ]
+[2021-05-18T10:30:27+08:00][sql] SELECT * FROM `product` [ RunTime:0.000444s ]
+[2021-05-18T10:30:31+08:00][sql] CONNECT:[ UseTime:0.000517s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:30:31+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003404s ]
+[2021-05-18T10:30:31+08:00][sql] SELECT * FROM `product` [ RunTime:0.000359s ]
+[2021-05-18T10:30:48+08:00][sql] CONNECT:[ UseTime:0.000644s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:30:48+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003979s ]
+[2021-05-18T10:30:48+08:00][sql] SELECT * FROM `product` [ RunTime:0.000428s ]
+[2021-05-18T10:31:15+08:00][sql] CONNECT:[ UseTime:0.000622s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:31:15+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006430s ]
+[2021-05-18T10:31:15+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000353s ]
+[2021-05-18T10:31:15+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000255s ]
+[2021-05-18T10:31:16+08:00][sql] CONNECT:[ UseTime:0.010758s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:31:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004981s ]
+[2021-05-18T10:31:16+08:00][sql] SELECT * FROM `product` [ RunTime:0.000828s ]
+[2021-05-18T10:31:50+08:00][sql] CONNECT:[ UseTime:0.000659s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:31:50+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011502s ]
+[2021-05-18T10:31:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000438s ]
+[2021-05-18T10:31:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000271s ]
+[2021-05-18T10:31:51+08:00][sql] CONNECT:[ UseTime:0.023910s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:31:51+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004453s ]
+[2021-05-18T10:31:51+08:00][sql] SELECT * FROM `product` [ RunTime:0.000342s ]
+[2021-05-18T10:31:51+08:00][error] [0]Cannot use object of type think\response\Json as array[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Index.php:25]
+[2021-05-18T10:32:16+08:00][sql] CONNECT:[ UseTime:0.012787s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:32:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003718s ]
+[2021-05-18T10:32:16+08:00][sql] SELECT * FROM `product` [ RunTime:0.000434s ]
+[2021-05-18T10:32:16+08:00][error] [0]Cannot use object of type think\response\Json as array[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Index.php:20]
+[2021-05-18T10:32:25+08:00][sql] CONNECT:[ UseTime:0.011758s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:32:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003416s ]
+[2021-05-18T10:32:25+08:00][sql] SELECT * FROM `product` [ RunTime:0.000421s ]
+[2021-05-18T10:32:25+08:00][error] [8]Undefined index: data[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-helper\src\Collection.php:585]
+[2021-05-18T10:32:27+08:00][sql] CONNECT:[ UseTime:0.000573s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:32:27+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004022s ]
+[2021-05-18T10:32:27+08:00][sql] SELECT * FROM `product` [ RunTime:0.000461s ]
+[2021-05-18T10:32:27+08:00][error] [8]Undefined index: data[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-helper\src\Collection.php:585]
+[2021-05-18T10:32:27+08:00][sql] CONNECT:[ UseTime:0.016119s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:32:27+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003322s ]
+[2021-05-18T10:32:27+08:00][sql] SELECT * FROM `product` [ RunTime:0.000356s ]
+[2021-05-18T10:32:27+08:00][error] [8]Undefined index: data[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-helper\src\Collection.php:585]
+[2021-05-18T10:32:28+08:00][sql] CONNECT:[ UseTime:0.000487s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:32:28+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010895s ]
+[2021-05-18T10:32:28+08:00][sql] SELECT * FROM `product` [ RunTime:0.000415s ]
+[2021-05-18T10:32:28+08:00][error] [8]Undefined index: data[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-helper\src\Collection.php:585]
+[2021-05-18T10:32:33+08:00][sql] CONNECT:[ UseTime:0.000635s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:32:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003988s ]
+[2021-05-18T10:32:33+08:00][sql] SELECT * FROM `product` [ RunTime:0.000539s ]
+[2021-05-18T10:32:43+08:00][sql] CONNECT:[ UseTime:0.020212s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:32:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003318s ]
+[2021-05-18T10:32:43+08:00][sql] SELECT * FROM `product` [ RunTime:0.000494s ]
+[2021-05-18T10:35:00+08:00][error] [2]A non-numeric value encountered[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Index.php:21]
+[2021-05-18T10:35:13+08:00][sql] CONNECT:[ UseTime:0.017213s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:35:13+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004215s ]
+[2021-05-18T10:35:13+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000451s ]
+[2021-05-18T10:35:13+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000389s ]
+[2021-05-18T10:36:40+08:00][sql] CONNECT:[ UseTime:0.015314s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:36:40+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004283s ]
+[2021-05-18T10:36:40+08:00][sql] SELECT * FROM `product` [ RunTime:0.000533s ]
+[2021-05-18T10:37:37+08:00][sql] CONNECT:[ UseTime:0.000475s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:37:37+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003695s ]
+[2021-05-18T10:37:37+08:00][sql] SELECT * FROM `product` [ RunTime:0.000562s ]
+[2021-05-18T10:37:53+08:00][sql] CONNECT:[ UseTime:0.000591s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:37:53+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003878s ]
+[2021-05-18T10:37:53+08:00][sql] SELECT * FROM `product` [ RunTime:0.000613s ]
+[2021-05-18T10:38:16+08:00][sql] CONNECT:[ UseTime:0.000727s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:38:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003649s ]
+[2021-05-18T10:38:16+08:00][sql] SELECT * FROM `product` [ RunTime:0.000593s ]
+[2021-05-18T10:38:24+08:00][sql] CONNECT:[ UseTime:0.000615s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:38:24+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003545s ]
+[2021-05-18T10:38:24+08:00][sql] SELECT * FROM `product` [ RunTime:0.000574s ]
+[2021-05-18T10:38:47+08:00][sql] CONNECT:[ UseTime:0.000560s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:38:47+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004407s ]
+[2021-05-18T10:38:47+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000516s ]
+[2021-05-18T10:38:47+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000486s ]
+[2021-05-18T10:38:50+08:00][sql] CONNECT:[ UseTime:0.000595s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:38:50+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010869s ]
+[2021-05-18T10:38:50+08:00][sql] SELECT * FROM `product` [ RunTime:0.000420s ]
+[2021-05-18T10:39:37+08:00][sql] CONNECT:[ UseTime:0.016608s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:39:37+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003342s ]
+[2021-05-18T10:39:37+08:00][sql] SELECT * FROM `product` [ RunTime:0.000311s ]
+[2021-05-18T10:39:48+08:00][sql] CONNECT:[ UseTime:0.000573s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:39:48+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003492s ]
+[2021-05-18T10:39:48+08:00][sql] SELECT * FROM `product` [ RunTime:0.000424s ]
+[2021-05-18T10:41:11+08:00][sql] CONNECT:[ UseTime:0.010835s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:41:11+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003502s ]
+[2021-05-18T10:41:11+08:00][sql] SELECT * FROM `product` [ RunTime:0.000399s ]
+[2021-05-18T10:41:19+08:00][sql] CONNECT:[ UseTime:0.000508s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:41:19+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003655s ]
+[2021-05-18T10:41:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000534s ]
+[2021-05-18T10:41:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000362s ]
+[2021-05-18T10:41:21+08:00][sql] CONNECT:[ UseTime:0.000578s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:41:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012291s ]
+[2021-05-18T10:41:21+08:00][sql] SELECT * FROM `product` [ RunTime:0.000490s ]
+[2021-05-18T10:41:54+08:00][sql] CONNECT:[ UseTime:0.000631s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:41:54+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013130s ]
+[2021-05-18T10:41:54+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000353s ]
+[2021-05-18T10:41:54+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000206s ]
+[2021-05-18T10:41:56+08:00][sql] CONNECT:[ UseTime:0.000554s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:41:56+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006901s ]
+[2021-05-18T10:41:56+08:00][sql] SELECT * FROM `product` [ RunTime:0.000505s ]
+[2021-05-18T10:42:19+08:00][sql] CONNECT:[ UseTime:0.000628s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:42:19+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004631s ]
+[2021-05-18T10:42:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000548s ]
+[2021-05-18T10:42:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000309s ]
+[2021-05-18T10:42:21+08:00][sql] CONNECT:[ UseTime:0.000584s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:42:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012465s ]
+[2021-05-18T10:42:21+08:00][sql] SELECT * FROM `product` [ RunTime:0.000468s ]
+[2021-05-18T10:42:32+08:00][sql] CONNECT:[ UseTime:0.014307s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:42:32+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006814s ]
+[2021-05-18T10:42:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000328s ]
+[2021-05-18T10:42:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000204s ]
+[2021-05-18T10:42:33+08:00][sql] CONNECT:[ UseTime:0.023151s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:42:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010045s ]
+[2021-05-18T10:42:33+08:00][sql] SELECT * FROM `product` [ RunTime:0.000390s ]
+[2021-05-18T10:43:46+08:00][sql] CONNECT:[ UseTime:0.000612s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:43:46+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012059s ]
+[2021-05-18T10:43:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000350s ]
+[2021-05-18T10:43:46+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000268s ]
+[2021-05-18T10:43:48+08:00][sql] CONNECT:[ UseTime:0.000591s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:43:48+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003312s ]
+[2021-05-18T10:43:48+08:00][sql] SELECT * FROM `product` [ RunTime:0.000361s ]
+[2021-05-18T10:44:04+08:00][sql] CONNECT:[ UseTime:0.000736s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:44:04+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.018098s ]
+[2021-05-18T10:44:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000349s ]
+[2021-05-18T10:44:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000275s ]
+[2021-05-18T10:44:12+08:00][sql] CONNECT:[ UseTime:0.000739s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:44:12+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003041s ]
+[2021-05-18T10:44:12+08:00][sql] SELECT * FROM `product` [ RunTime:0.000310s ]
+[2021-05-18T10:45:21+08:00][sql] CONNECT:[ UseTime:0.000736s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:45:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007422s ]
+[2021-05-18T10:45:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.001644s ]
+[2021-05-18T10:45:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000185s ]
+[2021-05-18T10:45:24+08:00][sql] CONNECT:[ UseTime:0.016388s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:45:24+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.014463s ]
+[2021-05-18T10:45:24+08:00][sql] SELECT * FROM `product` [ RunTime:0.000358s ]
+[2021-05-18T10:46:16+08:00][sql] CONNECT:[ UseTime:0.000661s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:46:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011755s ]
+[2021-05-18T10:46:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000445s ]
+[2021-05-18T10:46:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000380s ]
+[2021-05-18T10:46:16+08:00][sql] CONNECT:[ UseTime:0.019180s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:46:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010697s ]
+[2021-05-18T10:46:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000455s ]
+[2021-05-18T10:46:16+08:00][sql] CONNECT:[ UseTime:0.000484s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:46:16+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003251s ]
+[2021-05-18T10:46:16+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000600s ]
+[2021-05-18T10:46:50+08:00][sql] CONNECT:[ UseTime:0.000797s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:46:50+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012627s ]
+[2021-05-18T10:46:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000632s ]
+[2021-05-18T10:46:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000860s ]
+[2021-05-18T10:46:50+08:00][sql] CONNECT:[ UseTime:0.000502s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:46:50+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.002921s ]
+[2021-05-18T10:46:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000278s ]
+[2021-05-18T10:46:50+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000169s ]
+[2021-05-18T10:46:54+08:00][sql] CONNECT:[ UseTime:0.000748s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:46:54+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013647s ]
+[2021-05-18T10:46:54+08:00][sql] SELECT * FROM `product` [ RunTime:0.000407s ]
+[2021-05-18T10:47:33+08:00][sql] CONNECT:[ UseTime:0.000673s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:47:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004497s ]
+[2021-05-18T10:47:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000596s ]
+[2021-05-18T10:47:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000508s ]
+[2021-05-18T10:47:35+08:00][sql] CONNECT:[ UseTime:0.000603s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:47:35+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.015378s ]
+[2021-05-18T10:47:35+08:00][sql] SELECT * FROM `product` [ RunTime:0.000289s ]
+[2021-05-18T10:47:38+08:00][sql] CONNECT:[ UseTime:0.000512s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:47:38+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003175s ]
+[2021-05-18T10:47:38+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000610s ]
+[2021-05-18T10:47:38+08:00][sql] CONNECT:[ UseTime:0.000734s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:47:38+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.004184s ]
+[2021-05-18T10:47:38+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 5 [ RunTime:0.000617s ]
+[2021-05-18T10:47:41+08:00][sql] CONNECT:[ UseTime:0.000587s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:47:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005027s ]
+[2021-05-18T10:47:41+08:00][sql] SELECT * FROM `product` [ RunTime:0.000258s ]
+[2021-05-18T10:47:44+08:00][sql] CONNECT:[ UseTime:0.000538s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:47:44+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005281s ]
+[2021-05-18T10:47:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000419s ]
+[2021-05-18T10:47:44+08:00][sql] CONNECT:[ UseTime:0.000484s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:47:44+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003554s ]
+[2021-05-18T10:47:44+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 8 [ RunTime:0.000495s ]
+[2021-05-18T10:47:57+08:00][sql] CONNECT:[ UseTime:0.022558s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:47:57+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004115s ]
+[2021-05-18T10:47:57+08:00][sql] SELECT * FROM `product` [ RunTime:0.000465s ]
+[2021-05-18T10:51:05+08:00][sql] CONNECT:[ UseTime:0.018132s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:51:05+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011777s ]
+[2021-05-18T10:51:05+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000438s ]
+[2021-05-18T10:51:05+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000369s ]
+[2021-05-18T10:51:06+08:00][sql] CONNECT:[ UseTime:0.023768s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:51:06+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012207s ]
+[2021-05-18T10:51:06+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000399s ]
+[2021-05-18T10:51:06+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000348s ]
+[2021-05-18T10:51:07+08:00][sql] CONNECT:[ UseTime:0.000594s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:51:07+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011165s ]
+[2021-05-18T10:51:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000419s ]
+[2021-05-18T10:51:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000387s ]
+[2021-05-18T10:51:07+08:00][sql] CONNECT:[ UseTime:0.000601s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:51:07+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003535s ]
+[2021-05-18T10:51:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 9 LIMIT 1 [ RunTime:0.000723s ]
+[2021-05-18T10:51:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 10 LIMIT 1 [ RunTime:0.000402s ]
+[2021-05-18T10:53:52+08:00][sql] CONNECT:[ UseTime:0.024953s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:53:52+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012002s ]
+[2021-05-18T10:53:52+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000417s ]
+[2021-05-18T10:53:52+08:00][sql] CONNECT:[ UseTime:0.000525s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:53:52+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.004084s ]
+[2021-05-18T10:53:52+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000406s ]
+[2021-05-18T10:53:58+08:00][sql] CONNECT:[ UseTime:0.000504s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:53:58+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011934s ]
+[2021-05-18T10:53:58+08:00][sql] SELECT * FROM `product` [ RunTime:0.000627s ]
+[2021-05-18T10:54:32+08:00][sql] CONNECT:[ UseTime:0.000666s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:32+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012450s ]
+[2021-05-18T10:54:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000556s ]
+[2021-05-18T10:54:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000723s ]
+[2021-05-18T10:54:33+08:00][sql] CONNECT:[ UseTime:0.000546s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011308s ]
+[2021-05-18T10:54:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000496s ]
+[2021-05-18T10:54:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000361s ]
+[2021-05-18T10:54:33+08:00][sql] CONNECT:[ UseTime:0.000536s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012263s ]
+[2021-05-18T10:54:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000474s ]
+[2021-05-18T10:54:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000372s ]
+[2021-05-18T10:54:33+08:00][sql] CONNECT:[ UseTime:0.000647s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012120s ]
+[2021-05-18T10:54:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 9 LIMIT 1 [ RunTime:0.000604s ]
+[2021-05-18T10:54:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 10 LIMIT 1 [ RunTime:0.000395s ]
+[2021-05-18T10:54:37+08:00][sql] CONNECT:[ UseTime:0.000586s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:37+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010454s ]
+[2021-05-18T10:54:37+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000409s ]
+[2021-05-18T10:54:37+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000297s ]
+[2021-05-18T10:54:41+08:00][sql] CONNECT:[ UseTime:0.016246s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012232s ]
+[2021-05-18T10:54:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000630s ]
+[2021-05-18T10:54:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000554s ]
+[2021-05-18T10:54:43+08:00][sql] CONNECT:[ UseTime:0.011274s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010763s ]
+[2021-05-18T10:54:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000351s ]
+[2021-05-18T10:54:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000236s ]
+[2021-05-18T10:54:43+08:00][sql] CONNECT:[ UseTime:0.000530s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.016161s ]
+[2021-05-18T10:54:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000369s ]
+[2021-05-18T10:54:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000367s ]
+[2021-05-18T10:54:47+08:00][sql] CONNECT:[ UseTime:0.000494s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:47+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004213s ]
+[2021-05-18T10:54:47+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000634s ]
+[2021-05-18T10:54:47+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000550s ]
+[2021-05-18T10:54:48+08:00][sql] CONNECT:[ UseTime:0.023016s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:48+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011527s ]
+[2021-05-18T10:54:48+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000444s ]
+[2021-05-18T10:54:48+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000310s ]
+[2021-05-18T10:54:48+08:00][sql] CONNECT:[ UseTime:0.000867s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:48+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012597s ]
+[2021-05-18T10:54:48+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000406s ]
+[2021-05-18T10:54:48+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000363s ]
+[2021-05-18T10:54:51+08:00][sql] CONNECT:[ UseTime:0.021364s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:54:51+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003761s ]
+[2021-05-18T10:54:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000296s ]
+[2021-05-18T10:54:51+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000246s ]
+[2021-05-18T10:55:44+08:00][error] [0]template not exists:C:\xampp\htdocs\ThinkPHPProject\tp\app\api\view\search_result\index.html[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-view\src\Think.php:146]
+[2021-05-18T10:57:21+08:00][sql] CONNECT:[ UseTime:0.025015s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:57:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010827s ]
+[2021-05-18T10:57:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000270s ]
+[2021-05-18T10:57:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000291s ]
+[2021-05-18T10:57:30+08:00][sql] CONNECT:[ UseTime:0.000626s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:57:30+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004081s ]
+[2021-05-18T10:57:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000444s ]
+[2021-05-18T10:57:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000563s ]
+[2021-05-18T10:57:31+08:00][sql] CONNECT:[ UseTime:0.000625s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:57:31+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012321s ]
+[2021-05-18T10:57:31+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000521s ]
+[2021-05-18T10:57:31+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000403s ]
+[2021-05-18T10:57:32+08:00][sql] CONNECT:[ UseTime:0.020115s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:57:32+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012841s ]
+[2021-05-18T10:57:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000618s ]
+[2021-05-18T10:57:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000416s ]
+[2021-05-18T10:57:33+08:00][sql] CONNECT:[ UseTime:0.013070s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:57:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011969s ]
+[2021-05-18T10:57:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 9 LIMIT 1 [ RunTime:0.000537s ]
+[2021-05-18T10:57:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 10 LIMIT 1 [ RunTime:0.000319s ]
+[2021-05-18T10:57:34+08:00][sql] CONNECT:[ UseTime:0.012019s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:57:34+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004228s ]
+[2021-05-18T10:57:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 11 LIMIT 1 [ RunTime:0.000349s ]
+[2021-05-18T10:57:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 12 LIMIT 1 [ RunTime:0.000287s ]
+[2021-05-18T10:58:38+08:00][sql] CONNECT:[ UseTime:0.000528s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:58:38+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012262s ]
+[2021-05-18T10:58:38+08:00][sql] SELECT * FROM `product` [ RunTime:0.000382s ]
+[2021-05-18T10:59:00+08:00][sql] CONNECT:[ UseTime:0.000514s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:59:00+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011724s ]
+[2021-05-18T10:59:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000364s ]
+[2021-05-18T10:59:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000355s ]
+[2021-05-18T10:59:16+08:00][sql] CONNECT:[ UseTime:0.000601s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:59:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003904s ]
+[2021-05-18T10:59:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000304s ]
+[2021-05-18T10:59:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000256s ]
+[2021-05-18T10:59:43+08:00][sql] CONNECT:[ UseTime:0.019207s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T10:59:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006330s ]
+[2021-05-18T10:59:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000401s ]
+[2021-05-18T10:59:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000651s ]
+[2021-05-18T11:01:25+08:00][sql] CONNECT:[ UseTime:0.000737s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:01:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006224s ]
+[2021-05-18T11:01:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000614s ]
+[2021-05-18T11:01:25+08:00][sql] CONNECT:[ UseTime:0.000659s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:01:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004356s ]
+[2021-05-18T11:01:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000441s ]
+[2021-05-18T11:01:25+08:00][sql] CONNECT:[ UseTime:0.000563s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:01:25+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.004445s ]
+[2021-05-18T11:01:25+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 3 [ RunTime:0.000328s ]
+[2021-05-18T11:04:04+08:00][sql] CONNECT:[ UseTime:0.018103s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:04:04+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011530s ]
+[2021-05-18T11:04:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000330s ]
+[2021-05-18T11:04:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000172s ]
+[2021-05-18T11:06:03+08:00][sql] CONNECT:[ UseTime:0.000747s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:06:03+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.002807s ]
+[2021-05-18T11:06:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000250s ]
+[2021-05-18T11:06:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000162s ]
+[2021-05-18T11:06:03+08:00][sql] CONNECT:[ UseTime:0.000764s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:06:03+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003663s ]
+[2021-05-18T11:06:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000276s ]
+[2021-05-18T11:06:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000168s ]
+[2021-05-18T11:07:06+08:00][sql] CONNECT:[ UseTime:0.000732s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:07:06+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003951s ]
+[2021-05-18T11:07:06+08:00][sql] SELECT * FROM `product` [ RunTime:0.000342s ]
+[2021-05-18T11:07:28+08:00][sql] CONNECT:[ UseTime:0.000625s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:07:28+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011809s ]
+[2021-05-18T11:07:28+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000412s ]
+[2021-05-18T11:07:28+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000275s ]
+[2021-05-18T11:07:30+08:00][sql] CONNECT:[ UseTime:0.000738s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:07:30+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.017627s ]
+[2021-05-18T11:07:30+08:00][sql] SELECT * FROM `product` [ RunTime:0.000367s ]
+[2021-05-18T11:08:15+08:00][sql] CONNECT:[ UseTime:0.022552s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:08:15+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005724s ]
+[2021-05-18T11:08:15+08:00][sql] SELECT * FROM `product` [ RunTime:0.000277s ]
+[2021-05-18T11:08:19+08:00][sql] CONNECT:[ UseTime:0.016529s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:08:19+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011458s ]
+[2021-05-18T11:08:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000403s ]
+[2021-05-18T11:08:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000196s ]
+[2021-05-18T11:08:21+08:00][sql] CONNECT:[ UseTime:0.023422s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:08:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012237s ]
+[2021-05-18T11:08:21+08:00][sql] SELECT * FROM `product` [ RunTime:0.000349s ]
+[2021-05-18T11:08:31+08:00][sql] CONNECT:[ UseTime:0.024249s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:08:31+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011987s ]
+[2021-05-18T11:08:31+08:00][sql] SELECT * FROM `product` [ RunTime:0.000361s ]
+[2021-05-18T11:08:56+08:00][sql] CONNECT:[ UseTime:0.000632s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:08:56+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012218s ]
+[2021-05-18T11:08:56+08:00][sql] SELECT * FROM `product` [ RunTime:0.000613s ]
+[2021-05-18T11:14:11+08:00][sql] CONNECT:[ UseTime:0.000785s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:14:11+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011827s ]
+[2021-05-18T11:14:11+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000407s ]
+[2021-05-18T11:14:11+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000257s ]
+[2021-05-18T11:14:12+08:00][sql] CONNECT:[ UseTime:0.000753s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:14:12+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011679s ]
+[2021-05-18T11:14:12+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000305s ]
+[2021-05-18T11:14:12+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000215s ]
+[2021-05-18T11:14:13+08:00][sql] CONNECT:[ UseTime:0.000691s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:14:13+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003362s ]
+[2021-05-18T11:14:13+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000434s ]
+[2021-05-18T11:14:13+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000408s ]
+[2021-05-18T11:14:14+08:00][sql] CONNECT:[ UseTime:0.000566s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:14:14+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010620s ]
+[2021-05-18T11:14:14+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000315s ]
+[2021-05-18T11:14:14+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000234s ]
+[2021-05-18T11:14:15+08:00][sql] CONNECT:[ UseTime:0.018852s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:14:15+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011206s ]
+[2021-05-18T11:14:15+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 9 LIMIT 1 [ RunTime:0.000472s ]
+[2021-05-18T11:14:15+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 10 LIMIT 1 [ RunTime:0.000712s ]
+[2021-05-18T11:14:18+08:00][sql] CONNECT:[ UseTime:0.022097s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:14:18+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012075s ]
+[2021-05-18T11:14:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 11 LIMIT 1 [ RunTime:0.000422s ]
+[2021-05-18T11:14:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 12 LIMIT 1 [ RunTime:0.000305s ]
+[2021-05-18T11:18:22+08:00][sql] CONNECT:[ UseTime:0.017534s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:18:22+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006936s ]
+[2021-05-18T11:18:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000330s ]
+[2021-05-18T11:18:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000348s ]
+[2021-05-18T11:18:23+08:00][sql] CONNECT:[ UseTime:0.000582s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:18:23+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012647s ]
+[2021-05-18T11:18:23+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000347s ]
+[2021-05-18T11:18:23+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000347s ]
+[2021-05-18T11:18:23+08:00][sql] CONNECT:[ UseTime:0.014634s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:18:23+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011706s ]
+[2021-05-18T11:18:23+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000394s ]
+[2021-05-18T11:18:23+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000378s ]
+[2021-05-18T11:18:24+08:00][sql] CONNECT:[ UseTime:0.013854s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:18:24+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012258s ]
+[2021-05-18T11:18:24+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000327s ]
+[2021-05-18T11:18:24+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000383s ]
+[2021-05-18T11:18:26+08:00][sql] CONNECT:[ UseTime:0.000572s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:18:26+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011178s ]
+[2021-05-18T11:18:26+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 9 LIMIT 1 [ RunTime:0.000528s ]
+[2021-05-18T11:18:26+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 10 LIMIT 1 [ RunTime:0.000326s ]
+[2021-05-18T11:18:32+08:00][sql] CONNECT:[ UseTime:0.016181s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:18:32+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005922s ]
+[2021-05-18T11:18:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000382s ]
+[2021-05-18T11:18:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000244s ]
+[2021-05-18T11:19:00+08:00][sql] CONNECT:[ UseTime:0.000719s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:19:00+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007468s ]
+[2021-05-18T11:19:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000509s ]
+[2021-05-18T11:19:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000421s ]
+[2021-05-18T11:19:00+08:00][sql] CONNECT:[ UseTime:0.015357s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:19:00+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012518s ]
+[2021-05-18T11:19:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000635s ]
+[2021-05-18T11:19:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000442s ]
+[2021-05-18T11:19:06+08:00][sql] CONNECT:[ UseTime:0.000684s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:19:06+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003515s ]
+[2021-05-18T11:19:06+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000328s ]
+[2021-05-18T11:19:06+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000206s ]
+[2021-05-18T11:19:07+08:00][sql] CONNECT:[ UseTime:0.000663s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:19:07+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005062s ]
+[2021-05-18T11:19:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000596s ]
+[2021-05-18T11:19:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000529s ]
+[2021-05-18T11:19:11+08:00][sql] CONNECT:[ UseTime:0.000483s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:19:11+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.017302s ]
+[2021-05-18T11:19:11+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000387s ]
+[2021-05-18T11:19:11+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000508s ]
+[2021-05-18T11:19:11+08:00][sql] CONNECT:[ UseTime:0.010885s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:19:11+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012193s ]
+[2021-05-18T11:19:11+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000494s ]
+[2021-05-18T11:19:11+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000586s ]
+[2021-05-18T11:19:23+08:00][sql] CONNECT:[ UseTime:0.000472s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:19:23+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003378s ]
+[2021-05-18T11:19:23+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000304s ]
+[2021-05-18T11:19:23+08:00][sql] CONNECT:[ UseTime:0.000550s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:19:23+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003872s ]
+[2021-05-18T11:19:23+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000522s ]
+[2021-05-18T11:19:24+08:00][sql] CONNECT:[ UseTime:0.000588s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:19:24+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004694s ]
+[2021-05-18T11:19:24+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000383s ]
+[2021-05-18T11:19:24+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000189s ]
+[2021-05-18T11:37:07+08:00][error] [2]A non-numeric value encountered[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Product.php:44]
+[2021-05-18T11:37:15+08:00][error] [2]A non-numeric value encountered[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Product.php:44]
+[2021-05-18T11:37:39+08:00][error] [2]A non-numeric value encountered[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Product.php:44]
+[2021-05-18T11:37:41+08:00][error] [2]A non-numeric value encountered[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Product.php:44]
+[2021-05-18T11:37:58+08:00][sql] CONNECT:[ UseTime:0.000776s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:37:58+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012796s ]
+[2021-05-18T11:37:58+08:00][sql] SELECT * FROM `product` WHERE  `product_name` = 'iphone' LIMIT 1 [ RunTime:0.000317s ]
+[2021-05-18T11:38:13+08:00][sql] CONNECT:[ UseTime:0.021351s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:38:13+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012541s ]
+[2021-05-18T11:38:13+08:00][sql] SELECT * FROM `product` [ RunTime:0.000338s ]
+[2021-05-18T11:38:15+08:00][sql] CONNECT:[ UseTime:0.000489s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:38:15+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010949s ]
+[2021-05-18T11:38:15+08:00][sql] SELECT * FROM `product` WHERE  `product_name` = 'iphone12' LIMIT 1 [ RunTime:0.000592s ]
+[2021-05-18T11:40:27+08:00][sql] CONNECT:[ UseTime:0.000635s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:40:27+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004283s ]
+[2021-05-18T11:40:27+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone12%' LIMIT 1 [ RunTime:0.000428s ]
+[2021-05-18T11:40:29+08:00][sql] CONNECT:[ UseTime:0.022895s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:40:29+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012081s ]
+[2021-05-18T11:40:29+08:00][sql] SELECT * FROM `product` [ RunTime:0.000361s ]
+[2021-05-18T11:40:30+08:00][sql] CONNECT:[ UseTime:0.000860s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:40:30+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005174s ]
+[2021-05-18T11:40:30+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' LIMIT 1 [ RunTime:0.000438s ]
+[2021-05-18T11:40:47+08:00][sql] CONNECT:[ UseTime:0.021339s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:40:47+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005711s ]
+[2021-05-18T11:40:47+08:00][sql] SELECT * FROM `product` [ RunTime:0.000474s ]
+[2021-05-18T11:40:48+08:00][sql] CONNECT:[ UseTime:0.000573s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:40:48+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012769s ]
+[2021-05-18T11:40:48+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' LIMIT 1 [ RunTime:0.000364s ]
+[2021-05-18T11:41:03+08:00][sql] CONNECT:[ UseTime:0.000740s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:41:03+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.014362s ]
+[2021-05-18T11:41:03+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000330s ]
+[2021-05-18T11:41:05+08:00][sql] CONNECT:[ UseTime:0.000787s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:41:05+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004644s ]
+[2021-05-18T11:41:05+08:00][sql] SELECT * FROM `product` [ RunTime:0.000297s ]
+[2021-05-18T11:41:06+08:00][sql] CONNECT:[ UseTime:0.000451s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:41:06+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.002850s ]
+[2021-05-18T11:41:06+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000267s ]
+[2021-05-18T11:42:11+08:00][sql] CONNECT:[ UseTime:0.000614s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:42:11+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011661s ]
+[2021-05-18T11:42:11+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000515s ]
+[2021-05-18T11:43:34+08:00][sql] CONNECT:[ UseTime:0.000529s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:43:34+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004969s ]
+[2021-05-18T11:43:34+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000477s ]
+[2021-05-18T11:43:41+08:00][sql] CONNECT:[ UseTime:0.020378s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:43:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013873s ]
+[2021-05-18T11:43:41+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000533s ]
+[2021-05-18T11:43:48+08:00][sql] CONNECT:[ UseTime:0.000651s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:43:48+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012493s ]
+[2021-05-18T11:43:48+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000432s ]
+[2021-05-18T11:43:49+08:00][sql] CONNECT:[ UseTime:0.000648s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:43:49+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005625s ]
+[2021-05-18T11:43:49+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000513s ]
+[2021-05-18T11:43:51+08:00][sql] CONNECT:[ UseTime:0.000793s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:43:51+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012043s ]
+[2021-05-18T11:43:51+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.009339s ]
+[2021-05-18T11:43:52+08:00][sql] CONNECT:[ UseTime:0.000490s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:43:52+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004711s ]
+[2021-05-18T11:43:52+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000554s ]
+[2021-05-18T11:44:23+08:00][sql] CONNECT:[ UseTime:0.000782s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:44:23+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006997s ]
+[2021-05-18T11:44:23+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000436s ]
+[2021-05-18T11:44:27+08:00][sql] CONNECT:[ UseTime:0.000675s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:44:27+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012459s ]
+[2021-05-18T11:44:27+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000547s ]
+[2021-05-18T11:44:27+08:00][sql] CONNECT:[ UseTime:0.025197s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:44:27+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006268s ]
+[2021-05-18T11:44:27+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000474s ]
+[2021-05-18T11:44:28+08:00][sql] CONNECT:[ UseTime:0.000434s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:44:28+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004382s ]
+[2021-05-18T11:44:28+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000258s ]
+[2021-05-18T11:44:29+08:00][sql] CONNECT:[ UseTime:0.000750s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:44:29+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004374s ]
+[2021-05-18T11:44:29+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000465s ]
+[2021-05-18T11:44:31+08:00][sql] CONNECT:[ UseTime:0.000512s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:44:31+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011535s ]
+[2021-05-18T11:44:31+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000332s ]
+[2021-05-18T11:45:03+08:00][sql] CONNECT:[ UseTime:0.000526s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:45:03+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011393s ]
+[2021-05-18T11:45:03+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000443s ]
+[2021-05-18T11:45:18+08:00][sql] CONNECT:[ UseTime:0.000491s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:45:18+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010988s ]
+[2021-05-18T11:45:18+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000472s ]
+[2021-05-18T11:45:20+08:00][sql] CONNECT:[ UseTime:0.000704s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:45:20+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004613s ]
+[2021-05-18T11:45:20+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%laptop%' [ RunTime:0.000498s ]
+[2021-05-18T11:45:33+08:00][sql] CONNECT:[ UseTime:0.000589s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:45:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003182s ]
+[2021-05-18T11:45:33+08:00][sql] SELECT * FROM `product` [ RunTime:0.000390s ]
+[2021-05-18T11:45:34+08:00][sql] CONNECT:[ UseTime:0.014734s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:45:34+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003883s ]
+[2021-05-18T11:45:34+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000484s ]
+[2021-05-18T11:45:35+08:00][sql] CONNECT:[ UseTime:0.024932s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:45:35+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003710s ]
+[2021-05-18T11:45:35+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000488s ]
+[2021-05-18T11:45:44+08:00][sql] CONNECT:[ UseTime:0.000593s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:45:44+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006258s ]
+[2021-05-18T11:45:44+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000475s ]
+[2021-05-18T11:46:12+08:00][sql] CONNECT:[ UseTime:0.000590s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:46:12+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012320s ]
+[2021-05-18T11:46:12+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000397s ]
+[2021-05-18T11:46:14+08:00][sql] CONNECT:[ UseTime:0.000717s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:46:14+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003266s ]
+[2021-05-18T11:46:14+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000408s ]
+[2021-05-18T11:46:20+08:00][sql] CONNECT:[ UseTime:0.000715s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:46:20+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011519s ]
+[2021-05-18T11:46:20+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000336s ]
+[2021-05-18T11:46:50+08:00][sql] CONNECT:[ UseTime:0.000496s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:46:50+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011367s ]
+[2021-05-18T11:46:50+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000371s ]
+[2021-05-18T11:46:55+08:00][sql] CONNECT:[ UseTime:0.000738s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:46:55+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004860s ]
+[2021-05-18T11:46:55+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000350s ]
+[2021-05-18T11:46:55+08:00][sql] CONNECT:[ UseTime:0.000784s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:46:55+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003565s ]
+[2021-05-18T11:46:55+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000411s ]
+[2021-05-18T11:46:57+08:00][sql] CONNECT:[ UseTime:0.000507s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:46:57+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.011830s ]
+[2021-05-18T11:46:57+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000324s ]
+[2021-05-18T11:47:22+08:00][sql] CONNECT:[ UseTime:0.000503s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:47:22+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011926s ]
+[2021-05-18T11:47:22+08:00][sql] SELECT * FROM `product` [ RunTime:0.000437s ]
+[2021-05-18T11:47:23+08:00][sql] CONNECT:[ UseTime:0.000606s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:47:23+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.006700s ]
+[2021-05-18T11:47:23+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000657s ]
+[2021-05-18T11:47:29+08:00][sql] CONNECT:[ UseTime:0.000491s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:47:29+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003453s ]
+[2021-05-18T11:47:29+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone12%' [ RunTime:0.000390s ]
+[2021-05-18T11:48:23+08:00][sql] CONNECT:[ UseTime:0.000505s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:48:23+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003012s ]
+[2021-05-18T11:48:23+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone12%' [ RunTime:0.000288s ]
+[2021-05-18T11:48:31+08:00][sql] CONNECT:[ UseTime:0.000590s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:48:31+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003832s ]
+[2021-05-18T11:48:31+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000444s ]
+[2021-05-18T11:49:33+08:00][sql] CONNECT:[ UseTime:0.000654s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:49:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004439s ]
+[2021-05-18T11:49:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000434s ]
+[2021-05-18T11:49:33+08:00][sql] CONNECT:[ UseTime:0.018482s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:49:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003665s ]
+[2021-05-18T11:49:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000358s ]
+[2021-05-18T11:49:33+08:00][sql] CONNECT:[ UseTime:0.000593s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:49:33+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.004207s ]
+[2021-05-18T11:49:33+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000459s ]
+[2021-05-18T11:49:35+08:00][sql] CONNECT:[ UseTime:0.000449s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:49:35+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.014957s ]
+[2021-05-18T11:49:35+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000324s ]
+[2021-05-18T11:49:52+08:00][sql] CONNECT:[ UseTime:0.000736s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:49:52+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004219s ]
+[2021-05-18T11:49:52+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000323s ]
+[2021-05-18T11:51:10+08:00][sql] CONNECT:[ UseTime:0.000464s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:51:10+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003344s ]
+[2021-05-18T11:51:10+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000484s ]
+[2021-05-18T11:51:13+08:00][sql] CONNECT:[ UseTime:0.000497s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:51:13+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.002618s ]
+[2021-05-18T11:51:13+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000299s ]
+[2021-05-18T11:51:13+08:00][sql] CONNECT:[ UseTime:0.000531s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:51:13+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003231s ]
+[2021-05-18T11:51:13+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 6 [ RunTime:0.000304s ]
+[2021-05-18T11:51:16+08:00][sql] CONNECT:[ UseTime:0.000499s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:51:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.014786s ]
+[2021-05-18T11:51:16+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000614s ]
+[2021-05-18T11:51:16+08:00][sql] CONNECT:[ UseTime:0.000519s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:51:16+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003212s ]
+[2021-05-18T11:51:16+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000522s ]
+[2021-05-18T11:51:24+08:00][sql] CONNECT:[ UseTime:0.000704s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:51:24+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005163s ]
+[2021-05-18T11:51:24+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%ihpo%' [ RunTime:0.000434s ]
+[2021-05-18T11:52:00+08:00][sql] CONNECT:[ UseTime:0.014088s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:52:00+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003303s ]
+[2021-05-18T11:52:00+08:00][sql] SELECT * FROM `product` [ RunTime:0.000552s ]
+[2021-05-18T11:52:01+08:00][sql] CONNECT:[ UseTime:0.000627s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:52:01+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011030s ]
+[2021-05-18T11:52:01+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.000384s ]
+[2021-05-18T11:52:07+08:00][sql] CONNECT:[ UseTime:0.000526s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:52:07+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005780s ]
+[2021-05-18T11:52:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000371s ]
+[2021-05-18T11:52:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000325s ]
+[2021-05-18T11:52:08+08:00][sql] CONNECT:[ UseTime:0.000636s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:52:08+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004997s ]
+[2021-05-18T11:52:08+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000558s ]
+[2021-05-18T11:52:08+08:00][sql] CONNECT:[ UseTime:0.000556s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:52:08+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.004367s ]
+[2021-05-18T11:52:08+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000354s ]
+[2021-05-18T11:53:23+08:00][sql] CONNECT:[ UseTime:0.000834s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:53:23+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003626s ]
+[2021-05-18T11:53:23+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000667s ]
+[2021-05-18T11:53:23+08:00][sql] CONNECT:[ UseTime:0.000575s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:53:23+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.004503s ]
+[2021-05-18T11:53:23+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000364s ]
+[2021-05-18T11:53:35+08:00][sql] CONNECT:[ UseTime:0.000616s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:53:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004124s ]
+[2021-05-18T11:53:35+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu' LIMIT 1 [ RunTime:0.000698s ]
+[2021-05-18T11:53:39+08:00][sql] CONNECT:[ UseTime:0.000483s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:53:39+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003896s ]
+[2021-05-18T11:53:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000291s ]
+[2021-05-18T11:53:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000319s ]
+[2021-05-18T11:53:41+08:00][sql] CONNECT:[ UseTime:0.000718s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:53:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010929s ]
+[2021-05-18T11:53:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000613s ]
+[2021-05-18T11:53:41+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000275s ]
+[2021-05-18T11:53:42+08:00][sql] CONNECT:[ UseTime:0.000550s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:53:42+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003164s ]
+[2021-05-18T11:53:42+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000269s ]
+[2021-05-18T11:53:42+08:00][sql] CONNECT:[ UseTime:0.000472s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:53:42+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.004299s ]
+[2021-05-18T11:53:42+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000496s ]
+[2021-05-18T11:53:47+08:00][sql] CONNECT:[ UseTime:0.000500s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:53:47+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003013s ]
+[2021-05-18T11:53:47+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000451s ]
+[2021-05-18T11:54:00+08:00][sql] CONNECT:[ UseTime:0.023041s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:54:00+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010768s ]
+[2021-05-18T11:54:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000416s ]
+[2021-05-18T11:54:00+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000366s ]
+[2021-05-18T11:54:01+08:00][sql] CONNECT:[ UseTime:0.013820s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:54:01+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011551s ]
+[2021-05-18T11:54:01+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000295s ]
+[2021-05-18T11:54:01+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000332s ]
+[2021-05-18T11:54:02+08:00][sql] CONNECT:[ UseTime:0.000582s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:54:02+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011117s ]
+[2021-05-18T11:54:02+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000637s ]
+[2021-05-18T11:54:02+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000402s ]
+[2021-05-18T11:54:03+08:00][sql] CONNECT:[ UseTime:0.000872s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:54:03+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.023213s ]
+[2021-05-18T11:54:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 9 LIMIT 1 [ RunTime:0.000445s ]
+[2021-05-18T11:54:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 10 LIMIT 1 [ RunTime:0.000342s ]
+[2021-05-18T11:54:03+08:00][sql] CONNECT:[ UseTime:0.020721s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:54:03+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011617s ]
+[2021-05-18T11:54:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 11 LIMIT 1 [ RunTime:0.000484s ]
+[2021-05-18T11:54:03+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 12 LIMIT 1 [ RunTime:0.000328s ]
+[2021-05-18T11:54:15+08:00][sql] CONNECT:[ UseTime:0.019199s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:54:15+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.023825s ]
+[2021-05-18T11:54:15+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000538s ]
+[2021-05-18T11:54:15+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000503s ]
+[2021-05-18T11:54:17+08:00][sql] CONNECT:[ UseTime:0.000630s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:54:17+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005855s ]
+[2021-05-18T11:54:17+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000544s ]
+[2021-05-18T11:54:17+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000336s ]
+[2021-05-18T11:54:21+08:00][sql] CONNECT:[ UseTime:0.000479s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:54:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012227s ]
+[2021-05-18T11:54:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000319s ]
+[2021-05-18T11:54:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000487s ]
+[2021-05-18T11:54:36+08:00][sql] CONNECT:[ UseTime:0.000589s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:54:36+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.011073s ]
+[2021-05-18T11:54:36+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000456s ]
+[2021-05-18T11:59:39+08:00][sql] CONNECT:[ UseTime:0.000641s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:59:39+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003926s ]
+[2021-05-18T11:59:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000353s ]
+[2021-05-18T11:59:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000208s ]
+[2021-05-18T11:59:40+08:00][sql] CONNECT:[ UseTime:0.000715s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:59:40+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005948s ]
+[2021-05-18T11:59:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000327s ]
+[2021-05-18T11:59:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000292s ]
+[2021-05-18T11:59:40+08:00][sql] CONNECT:[ UseTime:0.016934s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T11:59:40+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.016277s ]
+[2021-05-18T11:59:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000498s ]
+[2021-05-18T11:59:40+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000419s ]
+[2021-05-18T12:05:43+08:00][sql] CONNECT:[ UseTime:0.000829s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:05:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003767s ]
+[2021-05-18T12:05:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000428s ]
+[2021-05-18T12:05:43+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000469s ]
+[2021-05-18T12:06:17+08:00][sql] CONNECT:[ UseTime:0.000643s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:06:17+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013035s ]
+[2021-05-18T12:06:17+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000417s ]
+[2021-05-18T12:06:17+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.006534s ]
+[2021-05-18T12:07:57+08:00][sql] CONNECT:[ UseTime:0.000815s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:07:57+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005088s ]
+[2021-05-18T12:07:57+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000306s ]
+[2021-05-18T12:07:57+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000216s ]
+[2021-05-18T12:08:10+08:00][sql] CONNECT:[ UseTime:0.000613s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:08:10+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003315s ]
+[2021-05-18T12:08:10+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu' LIMIT 1 [ RunTime:0.000558s ]
+[2021-05-18T12:08:14+08:00][sql] CONNECT:[ UseTime:0.000623s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:08:14+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.014132s ]
+[2021-05-18T12:08:14+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000362s ]
+[2021-05-18T12:08:14+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000221s ]
+[2021-05-18T12:10:30+08:00][sql] CONNECT:[ UseTime:0.000865s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:10:30+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007125s ]
+[2021-05-18T12:10:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000436s ]
+[2021-05-18T12:10:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000280s ]
+[2021-05-18T12:10:54+08:00][sql] CONNECT:[ UseTime:0.000604s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:10:54+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011596s ]
+[2021-05-18T12:10:54+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000302s ]
+[2021-05-18T12:10:54+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000229s ]
+[2021-05-18T12:10:55+08:00][sql] CONNECT:[ UseTime:0.018192s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:10:55+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003841s ]
+[2021-05-18T12:10:55+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000594s ]
+[2021-05-18T12:10:55+08:00][sql] CONNECT:[ UseTime:0.024582s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:10:55+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003769s ]
+[2021-05-18T12:10:55+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 1 [ RunTime:0.000406s ]
+[2021-05-18T12:10:56+08:00][sql] CONNECT:[ UseTime:0.000618s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:10:56+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004518s ]
+[2021-05-18T12:10:56+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000322s ]
+[2021-05-18T12:12:11+08:00][sql] CONNECT:[ UseTime:0.000501s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:12:11+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003374s ]
+[2021-05-18T12:12:11+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000266s ]
+[2021-05-18T12:30:33+08:00][sql] CONNECT:[ UseTime:0.000678s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:30:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003168s ]
+[2021-05-18T12:30:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000267s ]
+[2021-05-18T12:30:55+08:00][sql] CONNECT:[ UseTime:0.000469s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:30:55+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004220s ]
+[2021-05-18T12:30:55+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000375s ]
+[2021-05-18T12:30:58+08:00][sql] CONNECT:[ UseTime:0.024790s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:30:58+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013605s ]
+[2021-05-18T12:30:58+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000366s ]
+[2021-05-18T12:30:59+08:00][sql] CONNECT:[ UseTime:0.000468s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:30:59+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003428s ]
+[2021-05-18T12:30:59+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000345s ]
+[2021-05-18T12:31:07+08:00][sql] CONNECT:[ UseTime:0.025579s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:31:07+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004648s ]
+[2021-05-18T12:31:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.001237s ]
+[2021-05-18T12:31:13+08:00][sql] CONNECT:[ UseTime:0.000515s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T12:31:13+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012210s ]
+[2021-05-18T12:31:13+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000287s ]
+[2021-05-18T14:10:02+08:00][sql] CONNECT:[ UseTime:0.004528s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:10:02+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.020566s ]
+[2021-05-18T14:10:02+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.011017s ]
+[2021-05-18T14:10:02+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000476s ]
+[2021-05-18T14:10:04+08:00][sql] CONNECT:[ UseTime:0.014243s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:10:04+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003494s ]
+[2021-05-18T14:10:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000389s ]
+[2021-05-18T14:10:04+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000272s ]
+[2021-05-18T14:10:05+08:00][sql] CONNECT:[ UseTime:0.000542s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:10:05+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003658s ]
+[2021-05-18T14:10:05+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000363s ]
+[2021-05-18T14:10:05+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000263s ]
+[2021-05-18T14:10:07+08:00][sql] CONNECT:[ UseTime:0.010299s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:10:07+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004499s ]
+[2021-05-18T14:10:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000563s ]
+[2021-05-18T14:10:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000476s ]
+[2021-05-18T14:10:08+08:00][sql] CONNECT:[ UseTime:0.000747s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:10:08+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003654s ]
+[2021-05-18T14:10:08+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 9 LIMIT 1 [ RunTime:0.000466s ]
+[2021-05-18T14:10:08+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 10 LIMIT 1 [ RunTime:0.000400s ]
+[2021-05-18T14:10:08+08:00][sql] CONNECT:[ UseTime:0.000930s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:10:08+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.002960s ]
+[2021-05-18T14:10:08+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 11 LIMIT 1 [ RunTime:0.000363s ]
+[2021-05-18T14:10:08+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 12 LIMIT 1 [ RunTime:0.000318s ]
+[2021-05-18T14:10:25+08:00][sql] CONNECT:[ UseTime:0.024268s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:10:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003154s ]
+[2021-05-18T14:10:25+08:00][sql] SELECT * FROM `product` [ RunTime:0.000621s ]
+[2021-05-18T14:10:26+08:00][sql] CONNECT:[ UseTime:0.000673s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:10:26+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003742s ]
+[2021-05-18T14:10:26+08:00][sql] SELECT * FROM `product` WHERE  `product_name` LIKE '%iphone%' [ RunTime:0.001010s ]
+[2021-05-18T14:29:17+08:00][sql] CONNECT:[ UseTime:0.000843s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:29:17+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004687s ]
+[2021-05-18T14:29:17+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000479s ]
+[2021-05-18T14:29:17+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000402s ]
+[2021-05-18T14:29:18+08:00][sql] CONNECT:[ UseTime:0.021187s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:29:18+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011145s ]
+[2021-05-18T14:29:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000271s ]
+[2021-05-18T14:29:18+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000174s ]
+[2021-05-18T14:29:19+08:00][sql] CONNECT:[ UseTime:0.000707s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:29:19+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004358s ]
+[2021-05-18T14:29:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000535s ]
+[2021-05-18T14:29:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000444s ]
+[2021-05-18T14:29:19+08:00][sql] CONNECT:[ UseTime:0.000707s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:29:19+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011683s ]
+[2021-05-18T14:29:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000449s ]
+[2021-05-18T14:29:19+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000409s ]
+[2021-05-18T14:29:20+08:00][sql] CONNECT:[ UseTime:0.025066s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:29:20+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012225s ]
+[2021-05-18T14:29:20+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 9 LIMIT 1 [ RunTime:0.000373s ]
+[2021-05-18T14:29:20+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 10 LIMIT 1 [ RunTime:0.000279s ]
+[2021-05-18T14:29:22+08:00][sql] CONNECT:[ UseTime:0.018077s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:29:22+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003117s ]
+[2021-05-18T14:29:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 11 LIMIT 1 [ RunTime:0.000328s ]
+[2021-05-18T14:29:22+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 12 LIMIT 1 [ RunTime:0.000240s ]
+[2021-05-18T14:33:33+08:00][sql] CONNECT:[ UseTime:0.000571s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:33:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012361s ]
+[2021-05-18T14:33:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000424s ]
+[2021-05-18T14:33:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000364s ]
+[2021-05-18T14:33:34+08:00][sql] CONNECT:[ UseTime:0.020679s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:33:34+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011017s ]
+[2021-05-18T14:33:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000364s ]
+[2021-05-18T14:33:34+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000276s ]
+[2021-05-18T14:33:35+08:00][sql] CONNECT:[ UseTime:0.000649s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:33:35+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003425s ]
+[2021-05-18T14:33:35+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000256s ]
+[2021-05-18T14:33:35+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000209s ]
+[2021-05-18T14:33:36+08:00][sql] CONNECT:[ UseTime:0.000558s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:33:36+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003405s ]
+[2021-05-18T14:33:36+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000751s ]
+[2021-05-18T14:33:36+08:00][sql] CONNECT:[ UseTime:0.020702s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:33:36+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003612s ]
+[2021-05-18T14:33:36+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000450s ]
+[2021-05-18T14:33:38+08:00][sql] CONNECT:[ UseTime:0.016657s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:33:38+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003054s ]
+[2021-05-18T14:33:38+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000417s ]
+[2021-05-18T14:33:43+08:00][sql] CONNECT:[ UseTime:0.000646s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:33:43+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003379s ]
+[2021-05-18T14:33:43+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000391s ]
+[2021-05-18T14:33:49+08:00][sql] CONNECT:[ UseTime:0.000617s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:33:49+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003609s ]
+[2021-05-18T14:33:49+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000373s ]
+[2021-05-18T14:34:21+08:00][sql] CONNECT:[ UseTime:0.009891s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:34:21+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003341s ]
+[2021-05-18T14:34:21+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.002598s ]
+[2021-05-18T14:34:21+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000331s ]
+[2021-05-18T14:34:21+08:00][sql] UPDATE `product`  SET `product_id` = 2 , `product_name` = 'IQOO Neo5' , `product_price` = '539.80' , `comment_number` = 5 , `avg_rating` = '3'  WHERE  `product_id` = 2 [ RunTime:0.001707s ]
+[2021-05-18T14:34:21+08:00][sql] INSERT INTO `comment` SET `username` = '0.0.0.0' , `user_avatar` = '//t.cn/RCzsdCq' , `product_id` = 2 , `comment_title` = 'I like it' , `comment_content` = 'I don\'t know why many people don\'t like it.' , `rate_number` = '5' [ RunTime:0.000608s ]
+[2021-05-18T14:34:27+08:00][sql] CONNECT:[ UseTime:0.024564s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:34:27+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.012868s ]
+[2021-05-18T14:34:27+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000641s ]
+[2021-05-18T14:34:28+08:00][sql] CONNECT:[ UseTime:0.012441s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:34:28+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.004864s ]
+[2021-05-18T14:34:28+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000378s ]
+[2021-05-18T14:34:29+08:00][sql] CONNECT:[ UseTime:0.022246s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:34:29+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003293s ]
+[2021-05-18T14:34:29+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000374s ]
+[2021-05-18T14:34:31+08:00][sql] CONNECT:[ UseTime:0.015210s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:34:31+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.011069s ]
+[2021-05-18T14:34:31+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000500s ]
+[2021-05-18T14:35:25+08:00][sql] CONNECT:[ UseTime:0.000578s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003596s ]
+[2021-05-18T14:35:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000323s ]
+[2021-05-18T14:35:25+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000242s ]
+[2021-05-18T14:35:27+08:00][sql] CONNECT:[ UseTime:0.017416s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:27+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011613s ]
+[2021-05-18T14:35:27+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000349s ]
+[2021-05-18T14:35:27+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000308s ]
+[2021-05-18T14:35:28+08:00][sql] CONNECT:[ UseTime:0.000586s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:28+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013406s ]
+[2021-05-18T14:35:28+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 5 LIMIT 1 [ RunTime:0.000266s ]
+[2021-05-18T14:35:28+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 6 LIMIT 1 [ RunTime:0.000198s ]
+[2021-05-18T14:35:28+08:00][sql] CONNECT:[ UseTime:0.025803s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:28+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003100s ]
+[2021-05-18T14:35:28+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 7 LIMIT 1 [ RunTime:0.000377s ]
+[2021-05-18T14:35:28+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 8 LIMIT 1 [ RunTime:0.000298s ]
+[2021-05-18T14:35:29+08:00][sql] CONNECT:[ UseTime:0.010447s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:29+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005358s ]
+[2021-05-18T14:35:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 9 LIMIT 1 [ RunTime:0.000315s ]
+[2021-05-18T14:35:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 10 LIMIT 1 [ RunTime:0.000222s ]
+[2021-05-18T14:35:29+08:00][sql] CONNECT:[ UseTime:0.013201s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:29+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005211s ]
+[2021-05-18T14:35:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 11 LIMIT 1 [ RunTime:0.000501s ]
+[2021-05-18T14:35:29+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 12 LIMIT 1 [ RunTime:0.000463s ]
+[2021-05-18T14:35:36+08:00][sql] CONNECT:[ UseTime:0.000562s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:36+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003395s ]
+[2021-05-18T14:35:36+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000366s ]
+[2021-05-18T14:35:37+08:00][sql] CONNECT:[ UseTime:0.000606s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:37+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003263s ]
+[2021-05-18T14:35:37+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000299s ]
+[2021-05-18T14:35:40+08:00][sql] CONNECT:[ UseTime:0.018500s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:40+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003724s ]
+[2021-05-18T14:35:40+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000593s ]
+[2021-05-18T14:35:41+08:00][sql] CONNECT:[ UseTime:0.017012s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:41+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.011015s ]
+[2021-05-18T14:35:41+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000473s ]
+[2021-05-18T14:35:43+08:00][sql] CONNECT:[ UseTime:0.019850s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:43+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.010832s ]
+[2021-05-18T14:35:43+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000362s ]
+[2021-05-18T14:35:44+08:00][sql] CONNECT:[ UseTime:0.016865s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:44+08:00][sql] SHOW FULL COLUMNS FROM `comment` [ RunTime:0.003696s ]
+[2021-05-18T14:35:44+08:00][sql] SELECT * FROM `comment` WHERE  `product_id` = 2 [ RunTime:0.000447s ]
+[2021-05-18T14:35:52+08:00][sql] CONNECT:[ UseTime:0.000530s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:52+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004452s ]
+[2021-05-18T14:35:52+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000450s ]
+[2021-05-18T14:35:52+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000295s ]
+[2021-05-18T14:35:54+08:00][sql] CONNECT:[ UseTime:0.019165s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:35:54+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012133s ]
+[2021-05-18T14:35:54+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 3 LIMIT 1 [ RunTime:0.000342s ]
+[2021-05-18T14:35:54+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 4 LIMIT 1 [ RunTime:0.000247s ]
+[2021-05-18T16:06:30+08:00][sql] CONNECT:[ UseTime:0.001158s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:06:30+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005772s ]
+[2021-05-18T16:06:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.001396s ]
+[2021-05-18T16:06:30+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000544s ]
+[2021-05-18T16:11:23+08:00][sql] CONNECT:[ UseTime:0.020191s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:11:23+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012474s ]
+[2021-05-18T16:11:23+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu123' LIMIT 1 [ RunTime:0.000859s ]
+[2021-05-18T16:11:23+08:00][sql] SELECT * FROM `front_user` WHERE  `email` = '403755355@qq.com' LIMIT 1 [ RunTime:0.000450s ]
+[2021-05-18T16:11:23+08:00][error] [2]json_decode() expects parameter 1 to be string, object given[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Register.php:50]
+[2021-05-18T16:11:39+08:00][sql] CONNECT:[ UseTime:0.023983s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:11:39+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003499s ]
+[2021-05-18T16:11:39+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu123' LIMIT 1 [ RunTime:0.000495s ]
+[2021-05-18T16:11:39+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '403755355@qq.com' LIMIT 1 [ RunTime:0.000372s ]
+[2021-05-18T16:11:39+08:00][sql] INSERT INTO `front_user` SET `username` = 'yizhu123' , `email` = '403755355@qq.com' , `password` = '18bf8d0ab8ca2ca7e90074edcdf988d4' , `token` = 'ZjVkNTE0NzM4YmM4NWJiNGM4ODY0YmM2MTI4Yzk1Njc=' , `status` = 0 , `create_time` = 1621325499 , `update_time` = 1621325499 [ RunTime:0.000375s ]
+[2021-05-18T16:11:39+08:00][error] [2]json_decode() expects parameter 1 to be string, object given[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Register.php:50]
+[2021-05-18T16:11:40+08:00][sql] CONNECT:[ UseTime:0.017924s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:11:40+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003891s ]
+[2021-05-18T16:11:40+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu123' LIMIT 1 [ RunTime:0.000523s ]
+[2021-05-18T16:11:40+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '403755355@qq.com' LIMIT 1 [ RunTime:0.000472s ]
+[2021-05-18T16:11:40+08:00][error] [2]json_decode() expects parameter 1 to be string, object given[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Register.php:50]
+[2021-05-18T16:11:59+08:00][sql] CONNECT:[ UseTime:0.000778s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:11:59+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012572s ]
+[2021-05-18T16:11:59+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu' LIMIT 1 [ RunTime:0.000788s ]
+[2021-05-18T16:11:59+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = '4047@123.com' LIMIT 1 [ RunTime:0.000507s ]
+[2021-05-18T16:11:59+08:00][error] [2]json_decode() expects parameter 1 to be string, object given[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Register.php:50]
+[2021-05-18T16:15:10+08:00][error] [0]Object of class think\response\Json could not be converted to string[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Register.php:27]
+[2021-05-18T16:15:54+08:00][error] [0]Cannot use object of type think\response\Json as array[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Register.php:28]
+[2021-05-18T16:16:04+08:00][error] [8]Undefined property: think\response\Json::$status[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Register.php:28]
+[2021-05-18T16:16:26+08:00][error] [2]json_decode() expects parameter 1 to be string, object given[C:\xampp\htdocs\ThinkPHPProject\tp\app\api\controller\Register.php:28]
+[2021-05-18T16:20:17+08:00][sql] CONNECT:[ UseTime:0.000842s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:20:17+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.013035s ]
+[2021-05-18T16:20:17+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizh123' LIMIT 1 [ RunTime:0.000608s ]
+[2021-05-18T16:20:17+08:00][sql] SELECT * FROM `front_user` WHERE  `email` = '403755355@qq.com' LIMIT 1 [ RunTime:0.000490s ]
+[2021-05-18T16:20:28+08:00][sql] CONNECT:[ UseTime:0.000663s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:20:28+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004671s ]
+[2021-05-18T16:20:28+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizh123' LIMIT 1 [ RunTime:0.000347s ]
+[2021-05-18T16:20:28+08:00][sql] SELECT * FROM `front_user` WHERE  `email` = 'zhuyi403755355@163.com' LIMIT 1 [ RunTime:0.000246s ]
+[2021-05-18T16:20:28+08:00][sql] INSERT INTO `front_user` SET `username` = 'yizh123' , `email` = 'zhuyi403755355@163.com' , `password` = '18bf8d0ab8ca2ca7e90074edcdf988d4' , `token` = 'MDU2OTI2NTdlM2MyZWRmZjIzNDY5NjUxODE3NTMxNjY=' , `status` = 0 , `create_time` = 1621326028 , `update_time` = 1621326028 [ RunTime:0.000402s ]
+[2021-05-18T16:20:32+08:00][sql] CONNECT:[ UseTime:0.000653s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:20:32+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012616s ]
+[2021-05-18T16:20:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000578s ]
+[2021-05-18T16:20:32+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000439s ]
+[2021-05-18T16:22:29+08:00][sql] CONNECT:[ UseTime:0.000840s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:22:29+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.010927s ]
+[2021-05-18T16:22:29+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizh123' LIMIT 1 [ RunTime:0.000648s ]
+[2021-05-18T16:22:33+08:00][sql] CONNECT:[ UseTime:0.000898s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:22:33+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.013680s ]
+[2021-05-18T16:22:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000574s ]
+[2021-05-18T16:22:33+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000419s ]
+[2021-05-18T16:22:51+08:00][sql] CONNECT:[ UseTime:0.017526s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:22:51+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004735s ]
+[2021-05-18T16:22:51+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizh123' LIMIT 1 [ RunTime:0.000484s ]
+[2021-05-18T16:24:57+08:00][sql] CONNECT:[ UseTime:0.014652s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:24:57+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011493s ]
+[2021-05-18T16:24:57+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu' LIMIT 1 [ RunTime:0.000653s ]
+[2021-05-18T16:24:57+08:00][sql] SELECT * FROM `front_user` WHERE  `email` = 'zhuyi403755355@163.com' LIMIT 1 [ RunTime:0.000440s ]
+[2021-05-18T16:24:57+08:00][sql] INSERT INTO `front_user` SET `username` = 'yizhu' , `email` = 'zhuyi403755355@163.com' , `password` = '18bf8d0ab8ca2ca7e90074edcdf988d4' , `token` = 'NzE4MDY4YzVlMWIzYTYyMzJiNzJhNzg1MDQ0Mjk5N2E=' , `status` = 0 , `create_time` = 1621326297 , `update_time` = 1621326297 [ RunTime:0.000588s ]
+[2021-05-18T16:25:06+08:00][sql] CONNECT:[ UseTime:0.011720s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:25:06+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011803s ]
+[2021-05-18T16:25:06+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu' LIMIT 1 [ RunTime:0.000459s ]
+[2021-05-18T16:25:06+08:00][sql] SELECT * FROM `front_user` WHERE  `email` = 'zhuyi403755355@163.com' LIMIT 1 [ RunTime:0.000404s ]
+[2021-05-18T16:26:40+08:00][sql] CONNECT:[ UseTime:0.012407s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:26:40+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012324s ]
+[2021-05-18T16:26:40+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu' LIMIT 1 [ RunTime:0.000719s ]
+[2021-05-18T16:26:40+08:00][sql] SELECT * FROM `front_user` WHERE  `email` = 'zhuyi403755355@163.com' LIMIT 1 [ RunTime:0.000511s ]
+[2021-05-18T16:26:40+08:00][sql] INSERT INTO `front_user` SET `username` = 'yizhu' , `email` = 'zhuyi403755355@163.com' , `password` = '18bf8d0ab8ca2ca7e90074edcdf988d4' , `token` = 'NGFkMDExOWQ0OGIxZjczYmRhYWFiNDVkMGZhNTlkM2Q=' , `status` = 0 , `create_time` = 1621326399 , `update_time` = 1621326399 [ RunTime:0.001013s ]
+[2021-05-18T16:26:44+08:00][sql] CONNECT:[ UseTime:0.000786s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:26:44+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011921s ]
+[2021-05-18T16:26:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000434s ]
+[2021-05-18T16:26:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000479s ]
+[2021-05-18T16:27:07+08:00][sql] CONNECT:[ UseTime:0.015693s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:27:07+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011870s ]
+[2021-05-18T16:27:07+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu' LIMIT 1 [ RunTime:0.000816s ]
+[2021-05-18T16:27:10+08:00][sql] CONNECT:[ UseTime:0.022641s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:27:10+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012691s ]
+[2021-05-18T16:27:10+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000519s ]
+[2021-05-18T16:27:10+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000422s ]
+[2021-05-18T16:27:28+08:00][sql] CONNECT:[ UseTime:0.012122s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:27:28+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012768s ]
+[2021-05-18T16:27:28+08:00][sql] UPDATE `front_user`  SET `username` = 'yizhu' , `avatar` = '/ThinkPHPProject/tp/public/static/api/images/id13/avatar.jpg' , `sex` = 2  WHERE  `id` = 13 [ RunTime:0.002406s ]
+[2021-05-18T16:27:28+08:00][sql] SELECT * FROM `front_user` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000623s ]
+[2021-05-18T16:27:38+08:00][sql] CONNECT:[ UseTime:0.000768s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:27:38+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005864s ]
+[2021-05-18T16:27:38+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000505s ]
+[2021-05-18T16:27:38+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000424s ]
+[2021-05-18T16:28:07+08:00][sql] CONNECT:[ UseTime:0.000727s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:28:07+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011218s ]
+[2021-05-18T16:28:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000464s ]
+[2021-05-18T16:28:07+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000404s ]
+[2021-05-18T16:29:44+08:00][sql] CONNECT:[ UseTime:0.025096s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:29:44+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.011043s ]
+[2021-05-18T16:29:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000416s ]
+[2021-05-18T16:29:44+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000254s ]
+[2021-05-18T16:30:08+08:00][sql] CONNECT:[ UseTime:0.010675s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:30:08+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004165s ]
+[2021-05-18T16:30:08+08:00][sql] SELECT * FROM `front_user` WHERE  `status` = 0  AND `token` = 'NGFkMDExOWQ0OGIxZjczYmRhYWFiNDVkMGZhNTlkM2Q=' LIMIT 1 [ RunTime:0.000428s ]
+[2021-05-18T16:30:08+08:00][sql] UPDATE `front_user`  SET `status` = 1  WHERE  `status` = 0  AND `token` = 'NGFkMDExOWQ0OGIxZjczYmRhYWFiNDVkMGZhNTlkM2Q=' [ RunTime:0.001703s ]
+[2021-05-18T16:30:35+08:00][sql] CONNECT:[ UseTime:0.011212s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:30:35+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.016992s ]
+[2021-05-18T16:30:35+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu' LIMIT 1 [ RunTime:0.000963s ]
+[2021-05-18T16:30:39+08:00][sql] CONNECT:[ UseTime:0.000838s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:30:39+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003558s ]
+[2021-05-18T16:30:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000642s ]
+[2021-05-18T16:30:39+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000511s ]
+[2021-05-18T16:32:06+08:00][sql] CONNECT:[ UseTime:0.000557s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:32:06+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005623s ]
+[2021-05-18T16:32:06+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000734s ]
+[2021-05-18T16:32:06+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000448s ]
+[2021-05-18T16:32:25+08:00][sql] CONNECT:[ UseTime:0.010456s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:32:25+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.010919s ]
+[2021-05-18T16:32:25+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yizhu' LIMIT 1 [ RunTime:0.000504s ]
+[2021-05-18T16:32:59+08:00][sql] CONNECT:[ UseTime:0.011385s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:32:59+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012353s ]
+[2021-05-18T16:32:59+08:00][sql] SELECT * FROM `front_user` WHERE  `status` = 1  AND `token` = 'NGFkMDExOWQ0OGIxZjczYmRhYWFiNDVkMGZhNTlkM2Q=' LIMIT 1 [ RunTime:0.000714s ]
+[2021-05-18T16:33:03+08:00][sql] CONNECT:[ UseTime:0.020085s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:33:03+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004488s ]
+[2021-05-18T16:33:03+08:00][sql] SELECT * FROM `front_user` WHERE  `status` = 1  AND `token` = 'NGFkMDExOWQ0OGIxZjczYmRhYWFiNDVkMGZhNTlkM2Q=' LIMIT 1 [ RunTime:0.000481s ]
+[2021-05-18T16:33:03+08:00][sql] UPDATE `front_user`  SET `password` = '7a0a8e823de699712653f9084135b9c2'  WHERE  `status` = 1  AND `token` = 'NGFkMDExOWQ0OGIxZjczYmRhYWFiNDVkMGZhNTlkM2Q=' [ RunTime:0.001847s ]
+[2021-05-18T16:33:06+08:00][sql] CONNECT:[ UseTime:0.000703s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T16:33:06+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004153s ]
+[2021-05-18T16:33:06+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 1 LIMIT 1 [ RunTime:0.000580s ]
+[2021-05-18T16:33:06+08:00][sql] SELECT * FROM `product` WHERE  `product_id` = 2 LIMIT 1 [ RunTime:0.000376s ]

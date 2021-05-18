@@ -1,0 +1,6 @@
+[2021-04-27T20:27:58+08:00][sql] CONNECT:[ UseTime:0.023706s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-27T20:27:58+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012833s ]
+[2021-04-27T20:27:58+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000447s ]
+[2021-04-27T21:02:34+08:00][sql] CONNECT:[ UseTime:0.001023s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-04-27T21:02:34+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.012385s ]
+[2021-04-27T21:02:34+08:00][sql] SELECT * FROM `front_user` WHERE  `username` = 'yi' LIMIT 1 [ RunTime:0.000565s ]

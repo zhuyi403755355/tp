@@ -1,0 +1,13 @@
+[2021-05-18T14:36:10+08:00][sql] CONNECT:[ UseTime:0.022222s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:36:10+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.003128s ]
+[2021-05-18T14:36:10+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000325s ]
+[2021-05-18T14:36:10+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1621319770 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001513s ]
+[2021-05-18T14:36:14+08:00][sql] CONNECT:[ UseTime:0.000496s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:36:14+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003451s ]
+[2021-05-18T14:36:14+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000438s ]
+[2021-05-18T14:36:18+08:00][sql] CONNECT:[ UseTime:0.000879s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:36:18+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004084s ]
+[2021-05-18T14:36:18+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000434s ]
+[2021-05-18T14:36:43+08:00][sql] CONNECT:[ UseTime:0.012361s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-18T14:36:43+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.015445s ]
+[2021-05-18T14:36:43+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000362s ]

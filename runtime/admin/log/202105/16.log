@@ -1,0 +1,145 @@
+[2021-05-16T16:22:46+08:00][sql] CONNECT:[ UseTime:0.024376s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:22:46+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.005842s ]
+[2021-05-16T16:22:46+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000571s ]
+[2021-05-16T16:22:46+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1621153366 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.002317s ]
+[2021-05-16T16:22:49+08:00][sql] CONNECT:[ UseTime:0.023137s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:22:49+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:23:01+08:00][sql] CONNECT:[ UseTime:0.024667s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:23:01+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:24:11+08:00][sql] CONNECT:[ UseTime:0.015352s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:24:11+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:24:12+08:00][sql] CONNECT:[ UseTime:0.015671s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:24:12+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:24:12+08:00][sql] CONNECT:[ UseTime:0.017711s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:24:12+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:24:13+08:00][sql] CONNECT:[ UseTime:0.014920s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:24:13+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:24:31+08:00][sql] CONNECT:[ UseTime:0.000777s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:24:31+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:24:32+08:00][sql] CONNECT:[ UseTime:0.025271s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:24:32+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:24:32+08:00][sql] CONNECT:[ UseTime:0.000536s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:24:32+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:25:13+08:00][sql] CONNECT:[ UseTime:0.000661s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:25:13+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:25:14+08:00][sql] CONNECT:[ UseTime:0.000483s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:25:14+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:25:20+08:00][sql] CONNECT:[ UseTime:0.000554s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:25:20+08:00][error] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'phpproject.product' doesn't exist[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\PDOConnection.php:795]
+[2021-05-16T16:42:40+08:00][sql] CONNECT:[ UseTime:0.022484s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:42:40+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004719s ]
+[2021-05-16T16:42:40+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:42:43+08:00][sql] CONNECT:[ UseTime:0.000532s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:42:43+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004302s ]
+[2021-05-16T16:42:43+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:42:45+08:00][sql] CONNECT:[ UseTime:0.000657s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:42:45+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003630s ]
+[2021-05-16T16:42:45+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:45:15+08:00][sql] CONNECT:[ UseTime:0.017797s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:45:15+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003004s ]
+[2021-05-16T16:45:15+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:45:16+08:00][sql] CONNECT:[ UseTime:0.000571s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:45:16+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.012115s ]
+[2021-05-16T16:45:16+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:45:25+08:00][sql] CONNECT:[ UseTime:0.011016s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:45:25+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.005636s ]
+[2021-05-16T16:45:25+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000481s ]
+[2021-05-16T16:45:25+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1621154725 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001542s ]
+[2021-05-16T16:45:29+08:00][sql] CONNECT:[ UseTime:0.018965s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:45:29+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003988s ]
+[2021-05-16T16:45:29+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:45:41+08:00][sql] CONNECT:[ UseTime:0.022425s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:45:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.007500s ]
+[2021-05-16T16:45:41+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:47:15+08:00][sql] CONNECT:[ UseTime:0.000751s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:47:15+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.011403s ]
+[2021-05-16T16:47:15+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000454s ]
+[2021-05-16T16:47:15+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1621154835 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.002013s ]
+[2021-05-16T16:47:18+08:00][sql] CONNECT:[ UseTime:0.000614s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:47:18+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.005170s ]
+[2021-05-16T16:47:18+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:47:41+08:00][sql] CONNECT:[ UseTime:0.023924s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:47:41+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004721s ]
+[2021-05-16T16:47:41+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:48:25+08:00][sql] CONNECT:[ UseTime:0.000679s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:48:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004406s ]
+[2021-05-16T16:48:25+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:48:25+08:00][sql] CONNECT:[ UseTime:0.000787s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:48:25+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.004319s ]
+[2021-05-16T16:48:25+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:48:26+08:00][sql] CONNECT:[ UseTime:0.017308s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:48:26+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.003983s ]
+[2021-05-16T16:48:26+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:48:26+08:00][sql] CONNECT:[ UseTime:0.014838s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:48:26+08:00][sql] SHOW FULL COLUMNS FROM `product` [ RunTime:0.010841s ]
+[2021-05-16T16:48:26+08:00][error] [10500]method not exist:think\db\Query->getAllUser[C:\xampp\htdocs\ThinkPHPProject\tp\vendor\topthink\think-orm\src\db\BaseQuery.php:117]
+[2021-05-16T16:49:33+08:00][error] [0]Class 'app\admin\controller\FrontUser' not found[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\Table.php:15]
+[2021-05-16T16:49:46+08:00][sql] CONNECT:[ UseTime:0.000663s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:49:46+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003470s ]
+[2021-05-16T16:49:46+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000304s ]
+[2021-05-16T16:49:47+08:00][sql] CONNECT:[ UseTime:0.000651s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:49:47+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005245s ]
+[2021-05-16T16:49:47+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000424s ]
+[2021-05-16T16:49:48+08:00][sql] CONNECT:[ UseTime:0.019060s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:49:48+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004548s ]
+[2021-05-16T16:49:48+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000374s ]
+[2021-05-16T16:49:48+08:00][sql] CONNECT:[ UseTime:0.000677s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:49:48+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003730s ]
+[2021-05-16T16:49:48+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000327s ]
+[2021-05-16T16:49:50+08:00][sql] CONNECT:[ UseTime:0.000516s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:49:50+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004291s ]
+[2021-05-16T16:49:50+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000357s ]
+[2021-05-16T16:49:51+08:00][error] [0]Class 'app\admin\controller\Product' not found[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\Table.php:43]
+[2021-05-16T16:49:52+08:00][error] [0]Class 'app\admin\controller\Product' not found[C:\xampp\htdocs\ThinkPHPProject\tp\app\admin\controller\Table.php:43]
+[2021-05-16T16:49:56+08:00][sql] CONNECT:[ UseTime:0.000551s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:49:56+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004987s ]
+[2021-05-16T16:49:56+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000610s ]
+[2021-05-16T16:49:58+08:00][sql] CONNECT:[ UseTime:0.000699s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:49:58+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.006234s ]
+[2021-05-16T16:49:58+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000665s ]
+[2021-05-16T16:50:20+08:00][sql] CONNECT:[ UseTime:0.000706s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:50:20+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003372s ]
+[2021-05-16T16:50:20+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000457s ]
+[2021-05-16T16:50:24+08:00][sql] CONNECT:[ UseTime:0.000965s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:50:24+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011091s ]
+[2021-05-16T16:50:24+08:00][sql] DELETE FROM `front_user` WHERE  `username` = 'yi' [ RunTime:0.001763s ]
+[2021-05-16T16:50:25+08:00][sql] CONNECT:[ UseTime:0.001094s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:50:25+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005367s ]
+[2021-05-16T16:50:25+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000567s ]
+[2021-05-16T16:51:46+08:00][sql] CONNECT:[ UseTime:0.000639s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:51:46+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011201s ]
+[2021-05-16T16:51:46+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000468s ]
+[2021-05-16T16:51:47+08:00][sql] CONNECT:[ UseTime:0.014480s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:51:47+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005994s ]
+[2021-05-16T16:51:47+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000424s ]
+[2021-05-16T16:51:49+08:00][sql] CONNECT:[ UseTime:0.023099s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:51:49+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011307s ]
+[2021-05-16T16:51:49+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000360s ]
+[2021-05-16T16:53:21+08:00][sql] CONNECT:[ UseTime:0.000632s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:53:21+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011051s ]
+[2021-05-16T16:53:21+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000359s ]
+[2021-05-16T16:53:33+08:00][sql] CONNECT:[ UseTime:0.012179s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:53:33+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004093s ]
+[2021-05-16T16:53:33+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000472s ]
+[2021-05-16T16:55:44+08:00][sql] CONNECT:[ UseTime:0.000699s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:55:44+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005130s ]
+[2021-05-16T16:55:44+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000498s ]
+[2021-05-16T16:55:48+08:00][sql] CONNECT:[ UseTime:0.020170s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:55:48+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.003791s ]
+[2021-05-16T16:55:48+08:00][sql] DELETE FROM `front_user` WHERE  `username` = 'yiZ' [ RunTime:0.001895s ]
+[2021-05-16T16:55:49+08:00][sql] CONNECT:[ UseTime:0.000661s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T16:55:49+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004469s ]
+[2021-05-16T16:55:49+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000365s ]
+[2021-05-16T18:20:54+08:00][sql] CONNECT:[ UseTime:0.000731s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T18:20:54+08:00][sql] SHOW FULL COLUMNS FROM `admin_user` [ RunTime:0.004783s ]
+[2021-05-16T18:20:54+08:00][sql] SELECT * FROM `admin_user` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.000371s ]
+[2021-05-16T18:20:54+08:00][sql] UPDATE `admin_user`  SET `last_login_time` = 1621160454 , `last_login_ip` = '::1'  WHERE  `id` = 1 [ RunTime:0.001685s ]
+[2021-05-16T18:20:58+08:00][sql] CONNECT:[ UseTime:0.020005s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T18:20:58+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.005879s ]
+[2021-05-16T18:20:58+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000420s ]
+[2021-05-16T19:01:24+08:00][sql] CONNECT:[ UseTime:0.000934s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T19:01:24+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.011833s ]
+[2021-05-16T19:01:24+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000540s ]
+[2021-05-16T19:01:24+08:00][sql] CONNECT:[ UseTime:0.000825s ] mysql:host=127.0.0.1;port=3306;dbname=phpproject;charset=utf8
+[2021-05-16T19:01:24+08:00][sql] SHOW FULL COLUMNS FROM `front_user` [ RunTime:0.004299s ]
+[2021-05-16T19:01:24+08:00][sql] SELECT * FROM `front_user` [ RunTime:0.000384s ]
